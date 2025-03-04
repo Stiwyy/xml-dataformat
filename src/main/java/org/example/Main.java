@@ -13,13 +13,13 @@ public class Main {
             DocumentBuilderFactory dcb = DocumentBuilderFactory.newInstance();
             DocumentBuilder documentBuilder = dcb.newDocumentBuilder();
             Document document = documentBuilder.parse("src/main/resources/files/adressen.xml");
-            Node rootNode = document.getDocumentElement();
-            NodeList nodeList = rootNode.getChildNodes();
+
+            NodeList nodeList = document.getElementsByTagName("adresse");
 
             for (int i = 0; i < nodeList.getLength(); i++) {
                 Node node = nodeList.item(i);
-                System.out.println(node.getNodeName());
-            }
+                System.out.println(node.getTextContent());
+                }
         } catch(Exception e){
             e.printStackTrace();
         }
