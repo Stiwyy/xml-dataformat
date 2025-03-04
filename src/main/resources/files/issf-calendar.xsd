@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- copyright (c) 2004, clip interactive GmbH, Switzerland  -->
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="issfcalendar">   
+		<xsd:complexType>
+			<xsd:sequence>
+		    
+				<xsd:element name="championship">
+					<xsd:complexType>
+        				<xsd:sequence>
+        				
+							<xsd:element name="site" type="xsd:string" />
+							<xsd:element name="nation" type="xsd:string" />
+							<xsd:element name="title" type="xsd:string" />
+							<xsd:element name="year" type="xsd:integer" />
+							<xsd:element name="startdate" type="xsd:date" />
+							<xsd:element name="enddate" type="xsd:date" />
+							
+							<xsd:element name="events">
+              					<xsd:complexType>
+									<xsd:sequence>
+									
+										<xsd:element name="event">              				
+              								<xsd:complexType>
+												<xsd:sequence>
+													<xsd:element name="date" type="xsd:date" />
+													<xsd:element name="issftitle" type="xsd:string" />
+												</xsd:sequence>
+												<xsd:attribute name="id" type="xsd:integer" />
+												
+											</xsd:complexType>
+										</xsd:element>
+          							</xsd:sequence>
+								</xsd:complexType>
+      						</xsd:element>
+      					</xsd:sequence>
+      					
+						<xsd:attribute name="id" type="xsd:integer" use="required" />
+    				</xsd:complexType>
+    			</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

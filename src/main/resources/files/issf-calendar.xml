@@ -1,0 +1,4823 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE issfcalendar [ <!ATTLIST championship id ID #REQUIRED> ]>
+
+<issfcalendar xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='file:issf-calendar.xsd'>
+
+	<championship blubb="hello" id="857">
+		<!-- Hello World -->
+		<site>Prague</site>
+        <nation>CZE</nation>
+        <title>European Championships 10m</title>
+        <year>2009</year>
+        <startdate>2009-02-19</startdate>
+
+        <enddate>2009-02-23</enddate>
+        <timezone>Europe/Prague</timezone>
+        <gmtoffset></gmtoffset>
+        <federation>EUF</federation>
+        <disciplines>Rifle / Pistol</disciplines>
+        <championshipcode>ECH</championshipcode>
+
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/857/logos/CC_EUF.jpg</federationlogo>
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/857/logos/ECH_CZE_09.jpg</championshiplogo>
+        <sponsorresultlogo>http://www.issf-sports.org/media/calendar/2009/857/logos/ECH_CZE_Sponsors_Res.jpg</sponsorresultlogo>
+        <sponsoraccredlogo>http://www.issf-sports.org/media/calendar/2009/857/logos/ECH_CZE_Sponsors_Acc.jpg</sponsoraccredlogo>
+        
+        <events>
+	        <event id="5785">
+	            <issftitle>10m Air Rifle Men Junior</issftitle>
+	
+	            <eventcode>AR60</eventcode>
+	            <date>2009-02-22</date>
+	            <timestart>17:00</timestart>
+	            <timeend>18:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5770">
+	            <issftitle>10m Running Target Men Slow Run</issftitle>
+	            <eventcode>10RT</eventcode>
+	            <date>2009-02-21</date>
+	            <timestart>08:00</timestart>
+	            <timeend>12:00</timeend>
+	
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5771">
+	            <issftitle>10m Running Target Men Junior Slow Run</issftitle>
+	            <eventcode>10RT</eventcode>
+	            <date>2009-02-21</date>
+	            <timestart>08:00</timestart>
+	
+	            <timeend>12:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5772">
+	            <issftitle>10m Running Target Women Fast Run</issftitle>
+	            <eventcode>10RT20</eventcode>
+	            <date>2009-02-21</date>
+	
+	            <timestart>12:30</timestart>
+	            <timeend>16:30</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5773">
+	            <issftitle>10m Running Target Women Junior Fast Run</issftitle>
+	            <eventcode>10RT20</eventcode>
+	
+	            <date>2009-02-21</date>
+	            <timestart>12:30</timestart>
+	            <timeend>16:30</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5774">
+	            <issftitle>10m Running Target Men Fast Run</issftitle>
+	
+	            <eventcode>10RT</eventcode>
+	            <date>2009-02-21</date>
+	            <timestart>12:30</timestart>
+	            <timeend>16:30</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	
+	        <event id="5775">
+	            <issftitle>10m Running Target Men Junior Fast Run</issftitle>
+	            <eventcode>10RT</eventcode>
+	            <date>2009-02-21</date>
+	            <timestart>12:30</timestart>
+	            <timeend>16:30</timeend>
+	
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5776">
+	            <issftitle>Final 10m Air Pistol Women</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-02-21</date>
+	            <timestart>10:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5777">
+	            <issftitle>Final 10m Air Pistol Women Junior</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-02-21</date>
+	
+	            <timestart>13:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5778">
+	            <issftitle>Final 10m Air Rifle Women</issftitle>
+	            <eventcode>AR40</eventcode>
+	
+	            <date>2009-02-21</date>
+	            <timestart>15:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5779">
+	            <issftitle>Final 10m Air Rifle Women Junior</issftitle>
+	
+	            <eventcode>AR40</eventcode>
+	            <date>2009-02-21</date>
+	            <timestart>18:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="5780">
+	            <issftitle>Medal Match 10m Running Target Women</issftitle>
+	            <eventcode>10RT20</eventcode>
+	            <date>2009-02-21</date>
+	            <timestart>17:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5781">
+	            <issftitle>Medal Match 10m Running Target Men</issftitle>
+	            <eventcode>10RT</eventcode>
+	            <date>2009-02-21</date>
+	            <timestart>17:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5782">
+	            <issftitle>10m Air Pistol Men</issftitle>
+	            <eventcode>AP60</eventcode>
+	            <date>2009-02-22</date>
+	
+	            <timestart>08:00</timestart>
+	            <timeend>09:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5769">
+	            <issftitle>10m Running Target Women Junior Slow Run</issftitle>
+	            <eventcode>10RT20</eventcode>
+	
+	            <date>2009-02-21</date>
+	            <timestart>08:00</timestart>
+	            <timeend>12:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5791">
+	            <issftitle>10m Running Target Mixed Women Junior Stage 2</issftitle>
+	
+	            <eventcode>10RT20MIX</eventcode>
+	            <date>2009-02-22</date>
+	            <timestart>12:30</timestart>
+	            <timeend>16:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	
+	        <event id="5799">
+	            <issftitle>Departure of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-02-23</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>---</phase>
+	        </event>
+	        <event id="5797">
+	            <issftitle>Final 10m Air Rifle Men Junior</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-02-22</date>
+	            <timestart>20:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5796">
+	            <issftitle>Final 10m Air Rifle Men</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-02-22</date>
+	
+	            <timestart>17:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5795">
+	            <issftitle>Final 10m Air Pistol Men Junior</issftitle>
+	            <eventcode>AP60</eventcode>
+	
+	            <date>2009-02-22</date>
+	            <timestart>14:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5794">
+	            <issftitle>Final 10m Air Pistol Men</issftitle>
+	
+	            <eventcode>AP60</eventcode>
+	            <date>2009-02-22</date>
+	            <timestart>11:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="5783">
+	            <issftitle>10m Air Pistol Men Junior</issftitle>
+	            <eventcode>AP60</eventcode>
+	            <date>2009-02-22</date>
+	            <timestart>11:00</timestart>
+	            <timeend>12:45</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5792">
+	            <issftitle>10m Running Target Mixed Men Stage 2</issftitle>
+	            <eventcode>10RTMIX</eventcode>
+	            <date>2009-02-22</date>
+	            <timestart>12:30</timestart>
+	
+	            <timeend>16:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5784">
+	            <issftitle>10m Air Rifle Men</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-02-22</date>
+	
+	            <timestart>14:00</timestart>
+	            <timeend>15:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5790">
+	            <issftitle>10m Running Target Mixed Women Stage 2</issftitle>
+	            <eventcode>10RT20MIX</eventcode>
+	
+	            <date>2009-02-22</date>
+	            <timestart>12:30</timestart>
+	            <timeend>16:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5789">
+	            <issftitle>10m Running Target Mixed Men Junior Stage 1</issftitle>
+	
+	            <eventcode>10RTMIX</eventcode>
+	            <date>2009-02-22</date>
+	            <timestart>08:00</timestart>
+	            <timeend>11:30</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	
+	        <event id="5788">
+	            <issftitle>10m Running Target Mixed Men Stage 1</issftitle>
+	            <eventcode>10RTMIX</eventcode>
+	            <date>2009-02-22</date>
+	            <timestart>08:00</timestart>
+	            <timeend>11:30</timeend>
+	
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5787">
+	            <issftitle>10m Running Target Mixed Women Junior Stage 1</issftitle>
+	            <eventcode>10RT20MIX</eventcode>
+	            <date>2009-02-22</date>
+	            <timestart>08:00</timestart>
+	
+	            <timeend>11:30</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5786">
+	            <issftitle>10m Running Target Mixed Women Stage 1</issftitle>
+	            <eventcode>10RT20MIX</eventcode>
+	            <date>2009-02-22</date>
+	
+	            <timestart>08:00</timestart>
+	            <timeend>11:30</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5798">
+	            <issftitle>Closing Ceremony</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-02-22</date>
+	            <timestart>21:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5793">
+	            <issftitle>10m Running Target Mixed Men Junior Stage 2</issftitle>
+	
+	            <eventcode>10RTMIX</eventcode>
+	            <date>2009-02-22</date>
+	            <timestart>12:30</timestart>
+	            <timeend>16:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	
+	        <event id="5761">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-02-20</date>
+	            <timestart>08:00</timestart>
+	            <timeend>16:00</timeend>
+	
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5768">
+	            <issftitle>10m Running Target Women Slow Run</issftitle>
+	            <eventcode>10RT20</eventcode>
+	            <date>2009-02-21</date>
+	            <timestart>08:00</timestart>
+	
+	            <timeend>12:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5760">
+	            <issftitle>Equipment Control</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-02-20</date>
+	
+	            <timestart>08:00</timestart>
+	            <timeend>17:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5762">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-02-20</date>
+	            <timestart>15:00</timestart>
+	            <timeend>16:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5763">
+	            <issftitle>Opening Ceremony</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-02-20</date>
+	            <timestart>17:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	
+	        <event id="5764">
+	            <issftitle>10m Air Pistol Women</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-02-21</date>
+	            <timestart>08:00</timestart>
+	            <timeend>09:15</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5765">
+	            <issftitle>10m Air Pistol Women Junior</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-02-21</date>
+	            <timestart>10:30</timestart>
+	
+	            <timeend>11:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5766">
+	            <issftitle>10m Air Rifle Women</issftitle>
+	            <eventcode>AR40</eventcode>
+	            <date>2009-02-21</date>
+	
+	            <timestart>13:00</timestart>
+	            <timeend>14:15</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5767">
+	            <issftitle>10m Air Rifle Women Junior</issftitle>
+	            <eventcode>AR40</eventcode>
+	
+	            <date>2009-02-21</date>
+	            <timestart>15:30</timestart>
+	            <timeend>16:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5759">
+	            <issftitle>Arrival of Delegations</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-02-19</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+		</events>
+    </championship>
+    <championship id="919">
+        <site>Changwon</site>
+        <nation>KOR</nation>
+        <title>ISSF World Cup</title>
+        <year>2009</year>
+        <startdate>2009-04-08</startdate>
+
+        <enddate>2009-04-16</enddate>
+        <timezone>Asia/Seoul</timezone>
+        <gmtoffset></gmtoffset>
+        <federation>ISSF</federation>
+        <disciplines>Rifle / Pistol</disciplines>
+        <championshipcode>WC</championshipcode>
+
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/919/logos/ISSF.jpg</federationlogo>
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/919/logos/WC_KOR_09.jpg</championshiplogo>
+        <sponsorresultlogo>http://www.issf-sports.org/media/calendar/2009/919/logos/WC_KOR_Sponsors_Res.jpg</sponsorresultlogo>
+        <sponsoraccredlogo>http://www.issf-sports.org/media/calendar/2009/919/logos/WC_KOR_Sponsors_Acc.jpg</sponsoraccredlogo>
+        
+		<events>
+	        <event id="5891">
+	            <issftitle>Departure of Delegations</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-04-16</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	
+	        <event id="5883">
+	            <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-04-13</date>
+	            <timestart>14:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5878">
+	            <issftitle>Final 10m Air Pistol Men</issftitle>
+	            <eventcode>AP60</eventcode>
+	            <date>2009-04-12</date>
+	            <timestart>12:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5879">
+	            <issftitle>10m Air Pistol Women</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-04-13</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>10:15</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5881">
+	            <issftitle>50m Rifle 3 Positions Women</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	
+	            <date>2009-04-13</date>
+	            <timestart>09:00</timestart>
+	            <timeend>11:15</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5882">
+	            <issftitle>25m Rapid Fire Pistol Men Stage 1</issftitle>
+	
+	            <eventcode>RFP</eventcode>
+	            <date>2009-04-13</date>
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5863">
+	            <issftitle>10m Air Rifle Women</issftitle>
+	            <eventcode>AR40</eventcode>
+	            <date>2009-04-11</date>
+	            <timestart>09:00</timestart>
+	            <timeend>10:15</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5884">
+	            <issftitle>Final 10m Air Pistol Women</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-04-13</date>
+	            <timestart>12:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5885">
+	            <issftitle>25m Rapid Fire Pistol Men Stage 2</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-04-14</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5886">
+	            <issftitle>Final 25m Rapid Fire Pistol Men</issftitle>
+	            <eventcode>RFP</eventcode>
+	
+	            <date>2009-04-14</date>
+	            <timestart>14:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5874">
+	            <issftitle>50m Rifle Prone Men</issftitle>
+	
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-04-12</date>
+	            <timestart>09:00</timestart>
+	            <timeend>10:15</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5890">
+	            <issftitle>Final 50m Rifle 3 Positions Men</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-04-15</date>
+	            <timestart>14:30</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5872">
+	            <issftitle>10m Air Pistol Men</issftitle>
+	            <eventcode>AP60</eventcode>
+	            <date>2009-04-12</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>10:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5889">
+	            <issftitle>50m Rifle 3 Positions Men</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-04-15</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>12:20</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5856">
+	            <issftitle>Opening Ceremony</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-04-09</date>
+	            <timestart>17:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5860">
+	            <issftitle>25m Pistol Women Precision Stage</issftitle>
+	
+	            <eventcode>SP</eventcode>
+	            <date>2009-04-10</date>
+	            <timestart>09:00</timestart>
+	            <timeend>11:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5877">
+	            <issftitle>Final 50m Rifle Prone Men</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-04-12</date>
+	            <timestart>14:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5857">
+	            <issftitle>10m Air Rifle Men</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-04-10</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>10:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5855">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-04-09</date>
+	
+	            <timestart>14:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5854">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-04-09</date>
+	            <timestart>09:00</timestart>
+	            <timeend>16:00</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5853">
+	            <issftitle>Equipment Control</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-04-09</date>
+	            <timestart>09:00</timestart>
+	            <timeend>16:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	
+	        <event id="5852">
+	            <issftitle>Arrival of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-04-08</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>---</phase>
+	        </event>
+	        <event id="5866">
+	            <issftitle>50m Pistol Men</issftitle>
+	            <eventcode>FP</eventcode>
+	            <date>2009-04-11</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>11:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5869">
+	            <issftitle>Final 25m Pistol Women</issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-04-11</date>
+	
+	            <timestart>14:40</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5870">
+	            <issftitle>Final 50m Pistol Men</issftitle>
+	            <eventcode>FP</eventcode>
+	
+	            <date>2009-04-11</date>
+	            <timestart>13:20</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5871">
+	            <issftitle>Final 10m Air Rifle Women</issftitle>
+	
+	            <eventcode>AR40</eventcode>
+	            <date>2009-04-11</date>
+	            <timestart>12:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="5865">
+	            <issftitle>25m Pistol Women Rapid Fire Stage</issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-04-11</date>
+	            <timestart>09:00</timestart>
+	            <timeend>11:30</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5859">
+	            <issftitle>Final 10m Air Rifle Men</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-04-10</date>
+	            <timestart>13:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+		</events>
+    </championship>
+    
+    <championship id="920">
+        <site>Beijing</site>
+        <nation>CHN</nation>
+
+        <title>ISSF World Cup</title>
+        <year>2009</year>
+        <startdate>2009-04-16</startdate>
+        <enddate>2009-04-24</enddate>
+        <timezone>Asia/Macau</timezone>
+        <gmtoffset>8</gmtoffset>
+
+        <federation>ISSF</federation>
+        <disciplines>Rifle / Pistol</disciplines>
+        <championshipcode>WC</championshipcode>
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/920/logos/ISSF.jpg</federationlogo>
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/920/logos/WC_CHN_09.jpg</championshiplogo>
+        <sponsorresultlogo>http://www.issf-sports.org/media/calendar/2009/920/logos/WC_CHN_Sponsors_Res.jpg</sponsorresultlogo>
+
+        <sponsoraccredlogo>http://www.issf-sports.org/media/calendar/2009/920/logos/WC_CHN_Sponsors_Acc.jpg</sponsoraccredlogo>
+        
+		<events>        
+	        <event id="5992">
+	            <issftitle>Final 50m Rifle 3 Positions Men</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-04-23</date>
+	            <timestart>13:40</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5984">
+	            <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-04-21</date>
+	
+	            <timestart>12:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5985">
+	            <issftitle>Final 10m Air Pistol Women</issftitle>
+	            <eventcode>AP40</eventcode>
+	
+	            <date>2009-04-21</date>
+	            <timestart>14:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5986">
+	            <issftitle>25m Rapid Fire Pistol Men Stage 1</issftitle>
+	
+	            <eventcode>RFP</eventcode>
+	            <date>2009-04-21</date>
+	            <timestart>09:00</timestart>
+	            <timeend>13:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5987">
+	            <issftitle>25m Rapid Fire Pistol Men Stage 2</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-04-22</date>
+	            <timestart>09:00</timestart>
+	            <timeend>13:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5960">
+	            <issftitle>10m Air Rifle Men</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-04-18</date>
+	            <timestart>11:15</timestart>
+	
+	            <timeend>13:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5988">
+	            <issftitle>Final 25m Rapid Fire Pistol Men</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-04-22</date>
+	
+	            <timestart>14:15</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5989">
+	            <issftitle>50m Rifle 3 Positions Men Elimination 1</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	
+	            <date>2009-04-22</date>
+	            <timestart>09:00</timestart>
+	            <timeend>12:20</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5991">
+	            <issftitle>50m Rifle 3 Positions Men</issftitle>
+	
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-04-23</date>
+	            <timestart>09:00</timestart>
+	            <timeend>12:20</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5993">
+	            <issftitle>Departure of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-04-24</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>---</phase>
+	        </event>
+	        <event id="5983">
+	            <issftitle>10m Air Pistol Women</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-04-21</date>
+	            <timestart>10:45</timestart>
+	
+	            <timeend>12:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5972">
+	            <issftitle>50m Rifle Prone Men Elimination 1</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-04-19</date>
+	
+	            <timestart>13:30</timestart>
+	            <timeend>14:45</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5990">
+	            <issftitle>50m Rifle 3 Positions Men Elimination 2</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	
+	            <date>2009-04-22</date>
+	            <timestart>13:00</timestart>
+	            <timeend>16:20</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5954">
+	            <issftitle>Arrival of Delegations</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-04-16</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	
+	        <event id="5974">
+	            <issftitle>50m Rifle Prone Men</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-04-20</date>
+	            <timestart>09:00</timestart>
+	            <timeend>10:15</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5981">
+	            <issftitle>50m Rifle 3 Positions Women</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-04-21</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>11:15</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5958">
+	            <issftitle>Opening Ceremony</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-04-17</date>
+	
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5957">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-04-17</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5955">
+	            <issftitle>Equipment Control</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-04-17</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	
+	        <event id="5964">
+	            <issftitle>25m Pistol Women Precision Stage</issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-04-18</date>
+	            <timestart>09:00</timestart>
+	            <timeend>12:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5965">
+	            <issftitle>25m Pistol Women Rapid Fire Stage</issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-04-19</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>10:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5966">
+	            <issftitle>50m Pistol Men</issftitle>
+	            <eventcode>FP</eventcode>
+	            <date>2009-04-19</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>11:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5976">
+	            <issftitle>10m Air Pistol Men</issftitle>
+	            <eventcode>AP60</eventcode>
+	
+	            <date>2009-04-20</date>
+	            <timestart>11:15</timestart>
+	            <timeend>13:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5978">
+	            <issftitle>Final 10m Air Pistol Men</issftitle>
+	
+	            <eventcode>AP60</eventcode>
+	            <date>2009-04-20</date>
+	            <timestart>14:15</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="5956">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-04-17</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5977">
+	            <issftitle>Final 50m Rifle Prone Men</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-04-20</date>
+	            <timestart>12:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5968">
+	            <issftitle>10m Air Rifle Women</issftitle>
+	            <eventcode>AR40</eventcode>
+	            <date>2009-04-19</date>
+	
+	            <timestart>10:45</timestart>
+	            <timeend>12:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5961">
+	            <issftitle>Final 10m Air Rifle Men</issftitle>
+	            <eventcode>AR60</eventcode>
+	
+	            <date>2009-04-18</date>
+	            <timestart>14:15</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5973">
+	            <issftitle>50m Rifle Prone Men Elimination 2</issftitle>
+	
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-04-19</date>
+	            <timestart>15:15</timestart>
+	            <timeend>16:30</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	
+	        <event id="5971">
+	            <issftitle>Final 10m Air Rifle Women</issftitle>
+	            <eventcode>AR40</eventcode>
+	            <date>2009-04-19</date>
+	            <timestart>14:30</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5970">
+	            <issftitle>Final 50m Pistol Men</issftitle>
+	            <eventcode>FP</eventcode>
+	            <date>2009-04-19</date>
+	            <timestart>13:15</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5969">
+	            <issftitle>Final 25m Pistol Women</issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-04-19</date>
+	
+	            <timestart>12:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+		</events>
+    </championship>
+    
+    
+    <championship id="921">
+        <site>Cairo</site>
+
+        <nation>EGY</nation>
+        <title>ISSF World Cup</title>
+        <year>2009</year>
+        <startdate>2009-05-01</startdate>
+        <enddate>2009-05-10</enddate>
+        <timezone>Africa/Cairo</timezone>
+
+        <gmtoffset></gmtoffset>
+        <federation>ISSF</federation>
+        <disciplines>Shotgun</disciplines>
+        <championshipcode>WC</championshipcode>
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/921/logos/ISSF.jpg</federationlogo>
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/921/logos/WC_EGY_09.jpg</championshiplogo>
+
+        <sponsorresultlogo>http://www.issf-sports.org/media/calendar/2009/921/logos/WC_EGY_Sponsors_Res.jpg</sponsorresultlogo>
+        <sponsoraccredlogo>http://www.issf-sports.org/media/calendar/2009/921/logos/WC_EGY_Sponsors_Acc.jpg</sponsoraccredlogo>
+        
+        <events>
+	        <event id="5709">
+	            <issftitle>Double Trap Men</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-05-06</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>14:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5699">
+	            <issftitle>Arrival of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-05-01</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5718">
+	            <issftitle>Departure of Delegations</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-05-10</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	
+	        <event id="5716">
+	            <issftitle>Final Skeet Men</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-05-09</date>
+	            <timestart>14:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5715">
+	            <issftitle>Skeet Men Day 2</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-05-09</date>
+	            <timestart>09:30</timestart>
+	
+	            <timeend>13:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5714">
+	            <issftitle>Final Skeet Women</issftitle>
+	            <eventcode>SK75</eventcode>
+	            <date>2009-05-08</date>
+	
+	            <timestart>16:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5713">
+	            <issftitle>Skeet Women</issftitle>
+	            <eventcode>SK75</eventcode>
+	
+	            <date>2009-05-08</date>
+	            <timestart>09:00</timestart>
+	            <timeend>16:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5712">
+	            <issftitle>Skeet Men Day 1</issftitle>
+	
+	            <eventcode>SK125</eventcode>
+	            <date>2009-05-08</date>
+	            <timestart>09:30</timestart>
+	            <timeend>16:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5711">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-05-07</date>
+	            <timestart>09:00</timestart>
+	            <timeend>16:00</timeend>
+	
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5710">
+	            <issftitle>Final Double Trap Men</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-05-06</date>
+	            <timestart>15:15</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5717">
+	            <issftitle>Closing Ceremony</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-05-09</date>
+	
+	            <timestart>15:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5708">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-05-05</date>
+	            <timestart>09:00</timestart>
+	            <timeend>14:30</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5707">
+	            <issftitle>Final Trap Men</issftitle>
+	
+	            <eventcode>TR125</eventcode>
+	            <date>2009-05-04</date>
+	            <timestart>13:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="5706">
+	            <issftitle>Trap Men Day 2</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-05-04</date>
+	            <timestart>09:00</timestart>
+	            <timeend>12:30</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5705">
+	            <issftitle>Final Trap Women</issftitle>
+	            <eventcode>TR75</eventcode>
+	            <date>2009-05-03</date>
+	            <timestart>17:45</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5704">
+	            <issftitle>Trap Women</issftitle>
+	            <eventcode>TR75</eventcode>
+	            <date>2009-05-03</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>16:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5703">
+	            <issftitle>Trap Men Day 1</issftitle>
+	            <eventcode>TR125</eventcode>
+	
+	            <date>2009-05-03</date>
+	            <timestart>09:00</timestart>
+	            <timeend>16:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5702">
+	            <issftitle>Opening Ceremony</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-05-02</date>
+	            <timestart>18:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	
+	        <event id="5701">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-05-02</date>
+	            <timestart>14:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>---</phase>
+	        </event>
+	        <event id="5700">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-05-02</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>16:30</timeend>
+	            <phase>Training</phase>
+	        </event>
+		</events>
+    </championship>
+    
+    <championship id="922">
+        <site>Munich</site>
+        <nation>GER</nation>
+
+        <title>ISSF World Cup</title>
+        <year>2009</year>
+        <startdate>2009-05-12</startdate>
+        <enddate>2009-05-21</enddate>
+        <timezone>Europe/Berlin</timezone>
+        <gmtoffset>2</gmtoffset>
+
+        <federation>ISSF</federation>
+        <disciplines>Rifle / Pistol / Shotgun</disciplines>
+        <championshipcode>WC</championshipcode>
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/922/logos/ISSF.jpg</federationlogo>
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/922/logos/WC_GER_09.jpg</championshiplogo>
+        <sponsorresultlogo>http://www.issf-sports.org/media/calendar/2009/922/logos/WC_GER_Sponsors_Res.jpg</sponsorresultlogo>
+
+        <sponsoraccredlogo>http://www.issf-sports.org/media/calendar/2009/922/logos/WC_GER_Sponsors_Acc.jpg</sponsoraccredlogo>
+        
+        <events>
+	        <event id="5933">
+	            <issftitle>Equipment Control</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-05-13</date>
+	            <timestart>08:30</timestart>
+	
+	            <timeend>16:30</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5844">
+	            <issftitle>50m Rifle 3 Positions Men</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-05-20</date>
+	
+	            <timestart>08:30</timestart>
+	            <timeend>11:50</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5811">
+	            <issftitle>10m Air Rifle Men Relay 2</issftitle>
+	            <eventcode>AR60</eventcode>
+	
+	            <date>2009-05-16</date>
+	            <timestart>10:45</timestart>
+	            <timeend>12:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5828">
+	            <issftitle>50m Rifle Prone Men</issftitle>
+	
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-05-18</date>
+	            <timestart>08:30</timestart>
+	            <timeend>09:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5822">
+	            <issftitle>Final 25m Pistol Women</issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-05-17</date>
+	            <timestart>13:30</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5823">
+	            <issftitle>25m Pistol Women Rapid Fire Stage </issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-05-17</date>
+	            <timestart>08:30</timestart>
+	
+	            <timeend>12:15</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5824">
+	            <issftitle>Final Double Trap Men</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-05-17</date>
+	
+	            <timestart>17:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5825">
+	            <issftitle>50m Rifle Prone Men Elimination 1</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	
+	            <date>2009-05-17</date>
+	            <timestart>11:15</timestart>
+	            <timeend>12:30</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5818">
+	            <issftitle>Final 10m Air Rifle Women</issftitle>
+	
+	            <eventcode>AR40</eventcode>
+	            <date>2009-05-16</date>
+	            <timestart>15:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="5826">
+	            <issftitle>50m Rifle Prone Men Elimination 2</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-05-17</date>
+	            <timestart>13:00</timestart>
+	            <timeend>14:15</timeend>
+	
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5827">
+	            <issftitle>25m Rapid Fire Pistol Men Stage 1</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-05-17</date>
+	            <timestart>13:00</timestart>
+	
+	            <timeend>18:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5807">
+	            <issftitle>Final Trap Men</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-05-15</date>
+	
+	            <timestart>17:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5808">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-05-15</date>
+	            <timestart>08:30</timestart>
+	            <timeend>12:30</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5820">
+	            <issftitle>Final 50m Pistol Men</issftitle>
+	
+	            <eventcode>FP</eventcode>
+	            <date>2009-05-17</date>
+	            <timestart>11:45</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="5810">
+	            <issftitle>10m Air Rifle Men Relay 1</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-05-16</date>
+	            <timestart>08:30</timestart>
+	            <timeend>10:15</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5819">
+	            <issftitle>Double Trap Men</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-05-17</date>
+	            <timestart>10:30</timestart>
+	
+	            <timeend>15:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5812">
+	            <issftitle>Final 10m Air Rifle Men</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-05-16</date>
+	
+	            <timestart>13:45</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5813">
+	            <issftitle>50m Pistol Men Elimination 1</issftitle>
+	            <eventcode>FP</eventcode>
+	
+	            <date>2009-05-16</date>
+	            <timestart>08:30</timestart>
+	            <timeend>10:30</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5814">
+	            <issftitle>50m Pistol Men Elimination 2</issftitle>
+	
+	            <eventcode>FP</eventcode>
+	            <date>2009-05-16</date>
+	            <timestart>11:00</timestart>
+	            <timeend>13:00</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	
+	        <event id="5815">
+	            <issftitle>25m Pistol Women Precision Stage </issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-05-16</date>
+	            <timestart>08:30</timestart>
+	            <timeend>13:45</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5851">
+	            <issftitle>Departure of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-05-21</date>
+	            <timestart>00:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5816">
+	            <issftitle>10m Air Rifle Women Relay 1</issftitle>
+	            <eventcode>AR40</eventcode>
+	            <date>2009-05-16</date>
+	
+	            <timestart>10:45</timestart>
+	            <timeend>12:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5846">
+	            <issftitle>Skeet Men Day 2</issftitle>
+	            <eventcode>SK125</eventcode>
+	
+	            <date>2009-05-20</date>
+	            <timestart>09:30</timestart>
+	            <timeend>16:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5817">
+	            <issftitle>10m Air Rifle Women Relay 2</issftitle>
+	
+	            <eventcode>AR40</eventcode>
+	            <date>2009-05-16</date>
+	            <timestart>13:00</timestart>
+	            <timeend>14:15</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5831">
+	            <issftitle>Final 25m Rapid Fire Pistol Men</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-05-18</date>
+	            <timestart>15:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5830">
+	            <issftitle>25m Rapid Fire Pistol Men Stage 2</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-05-18</date>
+	            <timestart>08:30</timestart>
+	
+	            <timeend>13:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5829">
+	            <issftitle>Final 50m Rifle Prone Men</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-05-18</date>
+	
+	            <timestart>11:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5809">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-05-15</date>
+	            <timestart>16:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5837">
+	            <issftitle>10m Air Pistol Men Relay 2</issftitle>
+	
+	            <eventcode>AP60</eventcode>
+	            <date>2009-05-19</date>
+	            <timestart>10:45</timestart>
+	            <timeend>12:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5850">
+	            <issftitle>Final Skeet Men</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-05-20</date>
+	            <timestart>17:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5849">
+	            <issftitle>10m Air Pistol Women Relay 2</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-05-20</date>
+	            <timestart>10:15</timestart>
+	
+	            <timeend>11:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5848">
+	            <issftitle>10m Air Pistol Women Relay 1</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-05-20</date>
+	
+	            <timestart>08:30</timestart>
+	            <timeend>09:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5847">
+	            <issftitle>Final 50m Rifle 3 Positions Men</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	
+	            <date>2009-05-20</date>
+	            <timestart>13:45</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5845">
+	            <issftitle>Final 10m Air Pistol Women</issftitle>
+	
+	            <eventcode>AP40</eventcode>
+	            <date>2009-05-20</date>
+	            <timestart>12:45</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="5800">
+	            <issftitle>Arrival of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-05-12</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>---</phase>
+	        </event>
+	        <event id="5843">
+	            <issftitle>50m Rifle 3 Positions Men Elimination 2</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-05-19</date>
+	            <timestart>15:15</timestart>
+	
+	            <timeend>18:35</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5842">
+	            <issftitle>50m Rifle 3 Positions Men Elimination 1</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-05-19</date>
+	
+	            <timestart>11:15</timestart>
+	            <timeend>14:35</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5841">
+	            <issftitle>Final Skeet Women</issftitle>
+	            <eventcode>SK75</eventcode>
+	
+	            <date>2009-05-19</date>
+	            <timestart>18:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5840">
+	            <issftitle>Skeet Men Day 1</issftitle>
+	
+	            <eventcode>SK125</eventcode>
+	            <date>2009-05-19</date>
+	            <timestart>10:00</timestart>
+	            <timeend>16:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5821">
+	            <issftitle>50m Pistol Men</issftitle>
+	            <eventcode>FP</eventcode>
+	            <date>2009-05-17</date>
+	            <timestart>08:30</timestart>
+	            <timeend>10:30</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5838">
+	            <issftitle>Final 10m Air Pistol Men</issftitle>
+	            <eventcode>AP60</eventcode>
+	            <date>2009-05-19</date>
+	            <timestart>13:45</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5836">
+	            <issftitle>10m Air Pistol Men Relay 1</issftitle>
+	            <eventcode>AP60</eventcode>
+	            <date>2009-05-19</date>
+	
+	            <timestart>08:30</timestart>
+	            <timeend>10:15</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5835">
+	            <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	
+	            <date>2009-05-19</date>
+	            <timestart>12:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5834">
+	            <issftitle>50m Rifle 3 Positions Women</issftitle>
+	
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-05-19</date>
+	            <timestart>08:30</timestart>
+	            <timeend>10:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5833">
+	            <issftitle>50m Rifle 3 Positions Women Elimination 2</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-05-18</date>
+	            <timestart>13:00</timestart>
+	            <timeend>15:15</timeend>
+	
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5832">
+	            <issftitle>50m Rifle 3 Positions Women Elimination 1</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-05-18</date>
+	            <timestart>10:15</timestart>
+	
+	            <timeend>12:30</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5801">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-05-13</date>
+	
+	            <timestart>08:30</timestart>
+	            <timeend>17:00</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5802">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-05-13</date>
+	            <timestart>15:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5803">
+	            <issftitle>Trap Women</issftitle>
+	
+	            <eventcode>TR75</eventcode>
+	            <date>2009-05-14</date>
+	            <timestart>09:00</timestart>
+	            <timeend>17:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5804">
+	            <issftitle>Trap Men Day 1</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-05-14</date>
+	            <timestart>09:00</timestart>
+	            <timeend>16:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5805">
+	            <issftitle>Final Trap Women</issftitle>
+	            <eventcode>TR75</eventcode>
+	            <date>2009-05-14</date>
+	            <timestart>18:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5806">
+	            <issftitle>Trap Men Day 2</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-05-15</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>16:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5839">
+	            <issftitle>Skeet Women</issftitle>
+	            <eventcode>SK75</eventcode>
+	
+	            <date>2009-05-19</date>
+	            <timestart>09:00</timestart>
+	            <timeend>17:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+		</events>	        
+    </championship>
+    
+    <championship id="923">
+
+        <site>Milan</site>
+        <nation>ITA</nation>
+        <title>ISSF World Cup</title>
+        <year>2009</year>
+        <startdate>2009-05-21</startdate>
+        <enddate>2009-05-29</enddate>
+
+        <timezone>Europe/Rome</timezone>
+        <gmtoffset>2</gmtoffset>
+        <federation>ISSF</federation>
+        <disciplines>Rifle / Pistol</disciplines>
+        <championshipcode>WC</championshipcode>
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/923/logos/ISSF.jpg</federationlogo>
+
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/923/logos/WC_ITA_09.jpg</championshiplogo>
+        <sponsorresultlogo>http://www.issf-sports.org/media/calendar/2009/923/logos/WC_ITA_Sponsors_Res.jpg</sponsorresultlogo>
+        <sponsoraccredlogo>http://www.issf-sports.org/media/calendar/2009/923/logos/WC_ITA_Sponsors_Acc.jpg</sponsoraccredlogo>
+        
+		<events>        
+	        <event id="5927">
+	            <issftitle>50m Rifle Prone Men</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	
+	            <date>2009-05-28</date>
+	            <timestart>11:30</timestart>
+	            <timeend>12:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5923">
+	            <issftitle>50m Pistol Men Elimination 2</issftitle>
+	
+	            <eventcode>FP</eventcode>
+	            <date>2009-05-27</date>
+	            <timestart>11:00</timestart>
+	            <timeend>13:00</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	
+	        <event id="5924">
+	            <issftitle>50m Rifle Prone Men Elimination 1</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-05-27</date>
+	            <timestart>13:45</timestart>
+	            <timeend>15:00</timeend>
+	
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5926">
+	            <issftitle>50m Pistol Men</issftitle>
+	            <eventcode>FP</eventcode>
+	            <date>2009-05-28</date>
+	            <timestart>08:30</timestart>
+	
+	            <timeend>10:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5919">
+	            <issftitle>Final 25m Pistol Women</issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-05-26</date>
+	
+	            <timestart>18:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5928">
+	            <issftitle>Final 50m Pistol Men</issftitle>
+	            <eventcode>FP</eventcode>
+	
+	            <date>2009-05-28</date>
+	            <timestart>14:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5929">
+	            <issftitle>Final 50m Rifle Prone Men</issftitle>
+	
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-05-28</date>
+	            <timestart>15:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="5930">
+	            <issftitle>Closing Ceremony</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-05-28</date>
+	            <timestart>17:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>---</phase>
+	        </event>
+	        <event id="5931">
+	            <issftitle>Departure of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-05-29</date>
+	            <timestart>00:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5932">
+	            <issftitle>Equipment Control</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-05-22</date>
+	
+	            <timestart>08:30</timestart>
+	            <timeend>17:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5925">
+	            <issftitle>50m Rifle Prone Men Elimination 2</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	
+	            <date>2009-05-27</date>
+	            <timestart>15:30</timestart>
+	            <timeend>16:45</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5905">
+	            <issftitle>10m Air Pistol Men Relay 2</issftitle>
+	
+	            <eventcode>AP60</eventcode>
+	            <date>2009-05-24</date>
+	            <timestart>14:15</timestart>
+	            <timeend>16:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5911">
+	            <issftitle>50m Rifle 3 Positions Women Elimination 1</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-05-25</date>
+	            <timestart>14:00</timestart>
+	            <timeend>16:15</timeend>
+	
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5892">
+	            <issftitle>Arrival of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-05-21</date>
+	            <timestart>00:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5893">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-05-22</date>
+	
+	            <timestart>08:30</timestart>
+	            <timeend>17:00</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5894">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-05-22</date>
+	            <timestart>16:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5895">
+	            <issftitle>Opening Ceremony</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-05-22</date>
+	            <timestart>17:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	
+	        <event id="5896">
+	            <issftitle>10m Air Rifle Men Relay 1</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-05-23</date>
+	            <timestart>08:30</timestart>
+	            <timeend>10:15</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5897">
+	            <issftitle>10m Air Rifle Men Relay 2</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-05-23</date>
+	            <timestart>10:45</timestart>
+	
+	            <timeend>12:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5898">
+	            <issftitle>10m Air Rifle Women Relay 1</issftitle>
+	            <eventcode>AR40</eventcode>
+	            <date>2009-05-23</date>
+	
+	            <timestart>13:00</timestart>
+	            <timeend>14:15</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5899">
+	            <issftitle>10m Air Rifle Women Relay 2</issftitle>
+	            <eventcode>AR40</eventcode>
+	
+	            <date>2009-05-23</date>
+	            <timestart>14:45</timestart>
+	            <timeend>16:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5900">
+	            <issftitle>Final 10m Air Rifle Men</issftitle>
+	
+	            <eventcode>AR60</eventcode>
+	            <date>2009-05-23</date>
+	            <timestart>17:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="5901">
+	            <issftitle>Final 10m Air Rifle Women</issftitle>
+	            <eventcode>AR40</eventcode>
+	            <date>2009-05-23</date>
+	            <timestart>18:30</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5902">
+	            <issftitle>10m Air Pistol Women Relay 1</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-05-24</date>
+	            <timestart>08:30</timestart>
+	
+	            <timeend>09:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5921">
+	            <issftitle>Final 25m Rapid Fire Pistol Men</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-05-27</date>
+	
+	            <timestart>15:15</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5904">
+	            <issftitle>10m Air Pistol Men Relay 1</issftitle>
+	            <eventcode>AP60</eventcode>
+	
+	            <date>2009-05-24</date>
+	            <timestart>12:00</timestart>
+	            <timeend>13:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5922">
+	            <issftitle>50m Pistol Men Elimination 1</issftitle>
+	
+	            <eventcode>FP</eventcode>
+	            <date>2009-05-27</date>
+	            <timestart>08:30</timestart>
+	            <timeend>10:30</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	
+	        <event id="5906">
+	            <issftitle>50m Rifle 3 Positions Men Elimination 1</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-05-24</date>
+	            <timestart>08:30</timestart>
+	            <timeend>11:50</timeend>
+	
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5907">
+	            <issftitle>50m Rifle 3 Positions Men Elimination 2</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-05-24</date>
+	            <timestart>12:30</timestart>
+	
+	            <timeend>15:50</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="5908">
+	            <issftitle>Final 10m Air Pistol Women</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-05-24</date>
+	
+	            <timestart>17:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5910">
+	            <issftitle>50m Rifle 3 Positions Men</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	
+	            <date>2009-05-25</date>
+	            <timestart>08:30</timestart>
+	            <timeend>11:50</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5912">
+	            <issftitle>50m Rifle 3 Positions Women Elimination 2</issftitle>
+	
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-05-25</date>
+	            <timestart>16:45</timestart>
+	            <timeend>19:00</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	
+	        <event id="5913">
+	            <issftitle>25m Pistol Women Precision Stage </issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-05-25</date>
+	            <timestart>14:00</timestart>
+	            <timeend>19:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5914">
+	            <issftitle>Final 50m Rifle 3 Positions Men</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-05-25</date>
+	            <timestart>13:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5915">
+	            <issftitle>50m Rifle 3 Positions Women</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-05-26</date>
+	
+	            <timestart>08:30</timestart>
+	            <timeend>10:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5916">
+	            <issftitle>25m Rapid Fire Pistol Men Stage 1</issftitle>
+	            <eventcode>RFP</eventcode>
+	
+	            <date>2009-05-26</date>
+	            <timestart>08:30</timestart>
+	            <timeend>14:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5917">
+	            <issftitle>25m Pistol Women Rapid Fire Stage </issftitle>
+	
+	            <eventcode>SP</eventcode>
+	            <date>2009-05-26</date>
+	            <timestart>14:45</timestart>
+	            <timeend>17:15</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5918">
+	            <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-05-26</date>
+	            <timestart>12:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5920">
+	            <issftitle>25m Rapid Fire Pistol Men Stage 2</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-05-27</date>
+	            <timestart>08:30</timestart>
+	
+	            <timeend>14:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5903">
+	            <issftitle>10m Air Pistol Women Relay 2</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-05-24</date>
+	
+	            <timestart>10:15</timestart>
+	            <timeend>11:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5909">
+	            <issftitle>Final 10m Air Pistol Men</issftitle>
+	            <eventcode>AP60</eventcode>
+	
+	            <date>2009-05-24</date>
+	            <timestart>18:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+		</events>
+    </championship>
+    
+    <championship id="924">
+
+        <site>Minsk</site>
+        <nation>BLR</nation>
+        <title>ISSF World Cup</title>
+        <year>2009</year>
+        <startdate>2009-06-05</startdate>
+        <enddate>2009-06-14</enddate>
+
+        <timezone>Europe/Minsk</timezone>
+        <gmtoffset>3</gmtoffset>
+        <federation>ISSF</federation>
+        <disciplines>Shotgun</disciplines>
+        <championshipcode>WC</championshipcode>
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/924/logos/ISSF.jpg</federationlogo>
+
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/924/logos/WC_BLR_09.jpg</championshiplogo>
+        <sponsorresultlogo>http://www.issf-sports.org/media/calendar/2009/924/logos/WC_BLR_Sponsors_Res.jpg</sponsorresultlogo>
+        <sponsoraccredlogo>http://www.issf-sports.org/media/calendar/2009/924/logos/WC_BLR_Sponsors_Acc.jpg</sponsoraccredlogo>
+        
+        <events>
+	        <event id="5727">
+	            <issftitle>Final Skeet Men</issftitle>
+	            <eventcode>SK125</eventcode>
+	
+	            <date>2009-06-08</date>
+	            <timestart>15:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5737">
+	            <issftitle>Closing Ceremony</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-06-13</date>
+	            <timestart>16:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	
+	        <event id="5736">
+	            <issftitle>Final Trap Men</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-06-13</date>
+	            <timestart>14:30</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5735">
+	            <issftitle>Trap Men Day 2</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-06-13</date>
+	            <timestart>09:30</timestart>
+	
+	            <timeend>13:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5734">
+	            <issftitle>Final Trap Women</issftitle>
+	            <eventcode>TR75</eventcode>
+	            <date>2009-06-12</date>
+	
+	            <timestart>17:15</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5733">
+	            <issftitle>Trap Women</issftitle>
+	            <eventcode>TR75</eventcode>
+	
+	            <date>2009-06-12</date>
+	            <timestart>09:00</timestart>
+	            <timeend>15:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5732">
+	            <issftitle>Trap Men Day 1</issftitle>
+	
+	            <eventcode>TR125</eventcode>
+	            <date>2009-06-12</date>
+	            <timestart>09:30</timestart>
+	            <timeend>16:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5738">
+	            <issftitle>Departure of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-06-14</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>---</phase>
+	        </event>
+	        <event id="5728">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-06-09</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>14:00</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5731">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-06-11</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>16:30</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5726">
+	            <issftitle>Skeet Men Day 2</issftitle>
+	            <eventcode>SK125</eventcode>
+	
+	            <date>2009-06-08</date>
+	            <timestart>09:30</timestart>
+	            <timeend>13:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5725">
+	            <issftitle>Final Skeet Women</issftitle>
+	
+	            <eventcode>SK75</eventcode>
+	            <date>2009-06-07</date>
+	            <timestart>17:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="5724">
+	            <issftitle>Skeet Women</issftitle>
+	            <eventcode>SK75</eventcode>
+	            <date>2009-06-07</date>
+	            <timestart>09:00</timestart>
+	            <timeend>15:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5719">
+	            <issftitle>Arrival of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-06-05</date>
+	            <timestart>00:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5720">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-06-06</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>16:30</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5721">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-06-06</date>
+	            <timestart>14:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5722">
+	            <issftitle>Opening Ceremony</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-06-06</date>
+	            <timestart>18:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	
+	        <event id="5723">
+	            <issftitle>Skeet Men Day 1</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-06-07</date>
+	            <timestart>09:30</timestart>
+	            <timeend>17:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5730">
+	            <issftitle>Final Double Trap Men</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-06-10</date>
+	            <timestart>15:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5729">
+	            <issftitle>Double Trap Men</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-06-10</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>14:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+        </events>
+    </championship>
+    
+    <championship id="925">
+        <site>San Marino</site>
+
+        <nation>SMR</nation>
+        <title>ISSF World Cup</title>
+        <year>2009</year>
+        <startdate>2009-06-15</startdate>
+        <enddate>2009-06-24</enddate>
+        <timezone>Europe/San_Marino</timezone>
+
+        <gmtoffset></gmtoffset>
+        <federation>ISSF</federation>
+        <disciplines>Shotgun</disciplines>
+        <championshipcode>WC</championshipcode>
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/925/logos/ISSF.jpg</federationlogo>
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/925/logos/WC_SMR_09.jpg</championshiplogo>
+
+        <sponsorresultlogo>http://www.issf-sports.org/media/calendar/2009/925/logos/WC_SMR_Sponsors_Res.jpg</sponsorresultlogo>
+        <sponsoraccredlogo>http://www.issf-sports.org/media/calendar/2009/925/logos/WC_SMR_Sponsors_Acc.jpg</sponsoraccredlogo>
+	        
+		<events>	        
+	        <event id="5749">
+	            <issftitle>Double Trap Men</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-06-20</date>
+	
+	            <timestart>08:30</timestart>
+	            <timeend>14:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5753">
+	            <issftitle>Trap Women</issftitle>
+	            <eventcode>TR75</eventcode>
+	
+	            <date>2009-06-22</date>
+	            <timestart>08:00</timestart>
+	            <timeend>15:55</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5754">
+	            <issftitle>Final Trap Women</issftitle>
+	
+	            <eventcode>TR75</eventcode>
+	            <date>2009-06-22</date>
+	            <timestart>16:45</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="5755">
+	            <issftitle>Trap Men Day 2</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-06-23</date>
+	            <timestart>08:30</timestart>
+	            <timeend>14:45</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5740">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-06-16</date>
+	            <timestart>08:00</timestart>
+	
+	            <timeend>17:00</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5756">
+	            <issftitle>Final Trap Men</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-06-23</date>
+	
+	            <timestart>15:45</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5757">
+	            <issftitle>Closing Ceremony</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-06-23</date>
+	            <timestart>16:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5752">
+	            <issftitle>Trap Men Day 1</issftitle>
+	
+	            <eventcode>TR125</eventcode>
+	            <date>2009-06-22</date>
+	            <timestart>09:15</timestart>
+	            <timeend>14:40</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5750">
+	            <issftitle>Final Double Trap Men</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-06-20</date>
+	            <timestart>15:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5748">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-06-19</date>
+	            <timestart>08:30</timestart>
+	
+	            <timeend>14:00</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5744">
+	            <issftitle>Skeet Women</issftitle>
+	            <eventcode>SK75</eventcode>
+	            <date>2009-06-17</date>
+	
+	            <timestart>08:00</timestart>
+	            <timeend>18:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5739">
+	            <issftitle>Arrival of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-06-15</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5758">
+	            <issftitle>Departure of Delegations</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-06-24</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	
+	        <event id="5741">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-06-16</date>
+	            <timestart>14:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>---</phase>
+	        </event>
+	        <event id="5751">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-06-21</date>
+	            <timestart>08:00</timestart>
+	
+	            <timeend>17:35</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5743">
+	            <issftitle>Skeet Men Day 1</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-06-17</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>16:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5745">
+	            <issftitle>Final Skeet Women</issftitle>
+	            <eventcode>SK75</eventcode>
+	
+	            <date>2009-06-17</date>
+	            <timestart>18:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5746">
+	            <issftitle>Skeet Men Day 2</issftitle>
+	
+	            <eventcode>SK125</eventcode>
+	            <date>2009-06-18</date>
+	            <timestart>08:30</timestart>
+	            <timeend>17:30</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="5747">
+	            <issftitle>Final Skeet Men</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-06-18</date>
+	            <timestart>18:30</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5742">
+	            <issftitle>Opening Ceremony</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-06-16</date>
+	            <timestart>18:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+		</events>
+    </championship>
+    
+    <championship id="858">
+        <site>Osijek</site>
+        <nation>CRO</nation>
+
+        <title>European Championships</title>
+        <year>2009</year>
+        <startdate>2009-07-12</startdate>
+        <enddate>2009-07-26</enddate>
+        <timezone>Europe/Zagreb</timezone>
+        <gmtoffset></gmtoffset>
+
+        <federation>EUF</federation>
+        <disciplines>All Events</disciplines>
+        <championshipcode>ECH</championshipcode>
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/858/logos/CC_EUF.jpg</federationlogo>
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/858/logos/ECH_CRO_09.jpg</championshiplogo>
+        <sponsorresultlogo>http://www.issf-sports.org/media/calendar/2009/858/logos/ECH_CRO_Sponsors_Res.jpg</sponsorresultlogo>
+
+        <sponsoraccredlogo>http://www.issf-sports.org/media/calendar/2009/858/logos/ECH_CRO_Sponsors_Acc.jpg</sponsoraccredlogo>
+        
+        <events>
+	        <event id="6087">
+	            <issftitle>300m Rifle 3 Positions Women</issftitle>
+	            <eventcode>300R3X20</eventcode>
+	            <date>2009-07-22</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>11:15</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6086">
+	            <issftitle>25m Standard Pistol Men Junior</issftitle>
+	            <eventcode>STP</eventcode>
+	            <date>2009-07-22</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6088">
+	            <issftitle>300m Standard Rifle Men Elimination 1</issftitle>
+	            <eventcode>300STR3X20</eventcode>
+	
+	            <date>2009-07-22</date>
+	            <timestart>11:45</timestart>
+	            <timeend>14:00</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="6075">
+	            <issftitle>25m Rapid Fire Pistol Men Junior</issftitle>
+	
+	            <eventcode>RFP</eventcode>
+	            <date>2009-07-20</date>
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="6085">
+	            <issftitle>Final 25m Rapid Fire Pistol Men</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-07-22</date>
+	            <timestart>16:15</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6084">
+	            <issftitle>25m Rapid Fire Pistol Men Stage 2</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-07-22</date>
+	            <timestart>11:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6083">
+	            <issftitle>25m Rapid Fire Pistol Men Stage 1</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-07-21</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6082">
+	            <issftitle>300m Rifle Prone Men</issftitle>
+	            <eventcode>300FR60PR</eventcode>
+	
+	            <date>2009-07-21</date>
+	            <timestart>10:45</timestart>
+	            <timeend>12:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6081">
+	            <issftitle>300m Rifle Prone Women</issftitle>
+	
+	            <eventcode>300R60PR</eventcode>
+	            <date>2009-07-21</date>
+	            <timestart>09:00</timestart>
+	            <timeend>10:15</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	
+	        <event id="6080">
+	            <issftitle>300m Rifle Prone Men Elimination 2</issftitle>
+	            <eventcode>300FR60PR</eventcode>
+	            <date>2009-07-20</date>
+	            <timestart>14:15</timestart>
+	            <timeend>15:30</timeend>
+	
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="6079">
+	            <issftitle>300m Rifle Prone Men Elimination 1</issftitle>
+	            <eventcode>300FR60PR</eventcode>
+	            <date>2009-07-20</date>
+	            <timestart>12:30</timestart>
+	
+	            <timeend>13:45</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="6078">
+	            <issftitle>300m Rifle Prone Women Elimination 2</issftitle>
+	            <eventcode>300R60PR</eventcode>
+	            <date>2009-07-20</date>
+	
+	            <timestart>10:45</timestart>
+	            <timeend>12:00</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="6076">
+	            <issftitle>Final 25m Rapid Fire Pistol Men Junior</issftitle>
+	            <eventcode>RFP</eventcode>
+	
+	            <date>2009-07-20</date>
+	            <timestart>14:15</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6074">
+	            <issftitle>Final Trap Men</issftitle>
+	
+	            <eventcode>TR125</eventcode>
+	            <date>2009-07-20</date>
+	            <timestart>18:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="6073">
+	            <issftitle>Final Trap Men Junior</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-07-20</date>
+	            <timestart>17:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6072">
+	            <issftitle>Trap Men Junior Day 2</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-07-20</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6089">
+	            <issftitle>300m Standard Rifle Men Elimination 2</issftitle>
+	            <eventcode>300STR3X20</eventcode>
+	            <date>2009-07-22</date>
+	
+	            <timestart>14:30</timestart>
+	            <timeend>16:45</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="6105">
+	            <issftitle>300m Rifle 3 Positions Men</issftitle>
+	            <eventcode>300FR3X40</eventcode>
+	
+	            <date>2009-07-25</date>
+	            <timestart>09:00</timestart>
+	            <timeend>12:20</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6077">
+	            <issftitle>300m Rifle Prone Women Elimination 1</issftitle>
+	
+	            <eventcode>300R60PR</eventcode>
+	            <date>2009-07-20</date>
+	            <timestart>09:00</timestart>
+	            <timeend>10:15</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	
+	        <event id="6099">
+	            <issftitle>Skeet Men Day 1</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-07-24</date>
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6037">
+	            <issftitle>Double Trap Men</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-07-15</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6108">
+	            <issftitle>Departure of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-07-26</date>
+	
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="6107">
+	            <issftitle>25m Center Fire Pistol Men Rapid Fire Stage</issftitle>
+	            <eventcode>CFP</eventcode>
+	
+	            <date>2009-07-25</date>
+	            <timestart>12:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6106">
+	            <issftitle>25m Center Fire Pistol Men Precision Stage</issftitle>
+	
+	            <eventcode>CFP</eventcode>
+	            <date>2009-07-25</date>
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	
+	        <event id="6065">
+	            <issftitle>Final 50m Rifle 3 Positions Men</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-07-19</date>
+	            <timestart>13:30</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6104">
+	            <issftitle>Final Skeet Men</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-07-25</date>
+	            <timestart>18:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6071">
+	            <issftitle>Trap Men Day 2</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-07-20</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6102">
+	            <issftitle>Skeet Men Junior Day 2</issftitle>
+	            <eventcode>SK125</eventcode>
+	
+	            <date>2009-07-25</date>
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6103">
+	            <issftitle>Final Skeet Men Junior</issftitle>
+	
+	            <eventcode>SK125</eventcode>
+	            <date>2009-07-25</date>
+	            <timestart>17:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="6100">
+	            <issftitle>Skeet Men Junior Day 1</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-07-24</date>
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6090">
+	            <issftitle>Skeet Women</issftitle>
+	            <eventcode>SK75</eventcode>
+	            <date>2009-07-22</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6098">
+	            <issftitle>25m Standard Pistol Men</issftitle>
+	            <eventcode>STP</eventcode>
+	            <date>2009-07-24</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6097">
+	            <issftitle>300m Rifle 3 Positions Men Elimination 2</issftitle>
+	            <eventcode>300FR3X40</eventcode>
+	
+	            <date>2009-07-24</date>
+	            <timestart>13:00</timestart>
+	            <timeend>16:20</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="6096">
+	            <issftitle>300m Rifle 3 Positions Men Elimination 1</issftitle>
+	
+	            <eventcode>300FR3X40</eventcode>
+	            <date>2009-07-24</date>
+	            <timestart>09:00</timestart>
+	            <timeend>12:20</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	
+	        <event id="6095">
+	            <issftitle>25m Pistol Men Junior</issftitle>
+	            <eventcode>SPM</eventcode>
+	            <date>2009-07-23</date>
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6094">
+	            <issftitle>300m Standard Rifle Men</issftitle>
+	            <eventcode>300STR3X20</eventcode>
+	            <date>2009-07-23</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>11:15</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6093">
+	            <issftitle>Final Skeet Women</issftitle>
+	            <eventcode>SK75</eventcode>
+	            <date>2009-07-22</date>
+	
+	            <timestart>18:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6092">
+	            <issftitle>Final Skeet Women Junior</issftitle>
+	            <eventcode>SK75</eventcode>
+	
+	            <date>2009-07-22</date>
+	            <timestart>17:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6091">
+	            <issftitle>Skeet Women Junior</issftitle>
+	
+	            <eventcode>SK75</eventcode>
+	            <date>2009-07-22</date>
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="6101">
+	            <issftitle>Skeet Men Day 2</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-07-25</date>
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6044">
+	            <issftitle>50m Rifle Prone Men Elimination 1</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-07-16</date>
+	            <timestart>14:30</timestart>
+	
+	            <timeend>15:45</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="6055">
+	            <issftitle>Final Trap Women</issftitle>
+	            <eventcode>TR75</eventcode>
+	            <date>2009-07-17</date>
+	
+	            <timestart>18:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6054">
+	            <issftitle>Final Trap Women Junior</issftitle>
+	            <eventcode>TR75</eventcode>
+	
+	            <date>2009-07-17</date>
+	            <timestart>17:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6053">
+	            <issftitle>Trap Women Junior</issftitle>
+	
+	            <eventcode>TR75</eventcode>
+	            <date>2009-07-17</date>
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="6052">
+	            <issftitle>Trap Women</issftitle>
+	            <eventcode>TR75</eventcode>
+	            <date>2009-07-17</date>
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6070">
+	            <issftitle>Trap Men Junior Day 1</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-07-19</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6050">
+	            <issftitle>50m Rifle 3 Positions Women</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-07-17</date>
+	
+	            <timestart>12:30</timestart>
+	            <timeend>14:45</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6067">
+	            <issftitle>25m Pistol Women Rapid Fire Stage</issftitle>
+	            <eventcode>SP</eventcode>
+	
+	            <date>2009-07-19</date>
+	            <timestart>12:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6048">
+	            <issftitle>50m Rifle Prone Men</issftitle>
+	
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-07-17</date>
+	            <timestart>09:00</timestart>
+	            <timeend>10:15</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="6047">
+	            <issftitle>50m Running Target Mixed Men Junior</issftitle>
+	            <eventcode>50RTMIX</eventcode>
+	            <date>2009-07-16</date>
+	            <timestart>09:00</timestart>
+	            <timeend>14:30</timeend>
+	
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6056">
+	            <issftitle>Double Trap Women</issftitle>
+	            <eventcode>DT120</eventcode>
+	            <date>2009-07-15</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6045">
+	            <issftitle>50m Rifle Prone Men Elimination 2</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-07-16</date>
+	
+	            <timestart>16:15</timestart>
+	            <timeend>17:30</timeend>
+	            <phase>Elimination</phase>
+	        </event>
+	        <event id="6051">
+	            <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	
+	            <date>2009-07-17</date>
+	            <timestart>16:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6043">
+	            <issftitle>Final 50m Rifle 3 Positions Men Junior</issftitle>
+	
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-07-16</date>
+	            <timestart>13:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="6042">
+	            <issftitle>50m Rifle 3 Positions Men Junior</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-07-16</date>
+	            <timestart>09:00</timestart>
+	            <timeend>12:20</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6041">
+	            <issftitle>Final Double Trap Men Junior</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-07-15</date>
+	            <timestart>17:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6040">
+	            <issftitle>Double Trap Women Junior</issftitle>
+	            <eventcode>DT120</eventcode>
+	            <date>2009-07-15</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6035">
+	            <issftitle>50m Running Target Men Fast Run</issftitle>
+	            <eventcode>50RT</eventcode>
+	
+	            <date>2009-07-15</date>
+	            <timestart>09:00</timestart>
+	            <timeend>13:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6036">
+	            <issftitle>50m Running Target Men Junior Fast Run</issftitle>
+	
+	            <eventcode>50RT</eventcode>
+	            <date>2009-07-15</date>
+	            <timestart>09:00</timestart>
+	            <timeend>13:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	
+	        <event id="6039">
+	            <issftitle>Final Double Trap Men</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-07-15</date>
+	            <timestart>18:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6038">
+	            <issftitle>Double Trap Men Junior</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-07-15</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6023">
+	            <issftitle>Arrival of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-07-12</date>
+	
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="6046">
+	            <issftitle>50m Running Target Mixed Men</issftitle>
+	            <eventcode>50RTMIX</eventcode>
+	
+	            <date>2009-07-16</date>
+	            <timestart>09:00</timestart>
+	            <timeend>14:30</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6024">
+	            <issftitle>Official Training</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-07-13</date>
+	            <timestart>09:00</timestart>
+	            <timeend>17:00</timeend>
+	            <phase>Training</phase>
+	        </event>
+	
+	        <event id="6069">
+	            <issftitle>Trap Men Day 1</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-07-19</date>
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6066">
+	            <issftitle>25m Pistol Women Precision Stage</issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-07-19</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6064">
+	            <issftitle>50m Rifle 3 Positions Men</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-07-19</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>12:20</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6063">
+	            <issftitle>Final 25m Pistol Women Junior</issftitle>
+	            <eventcode>SP</eventcode>
+	
+	            <date>2009-07-18</date>
+	            <timestart>15:15</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6062">
+	            <issftitle>25m Pistol Women Junior Rapid Fire Stage</issftitle>
+	
+	            <eventcode>SP</eventcode>
+	            <date>2009-07-18</date>
+	            <timestart>12:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="6061">
+	            <issftitle>25m Pistol Women Junior Precision Stage</issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-07-18</date>
+	            <timestart>09:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6060">
+	            <issftitle>Final 50m Pistol Men</issftitle>
+	            <eventcode>FP</eventcode>
+	            <date>2009-07-18</date>
+	            <timestart>16:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6049">
+	            <issftitle>Final 50m Rifle Prone Men</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-07-17</date>
+	
+	            <timestart>11:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6034">
+	            <issftitle>Final 50m Rifle 3 Positions Women Junior</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	
+	            <date>2009-07-15</date>
+	            <timestart>14:15</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6058">
+	            <issftitle>Final 50m Pistol Men Junior</issftitle>
+	
+	            <eventcode>FP</eventcode>
+	            <date>2009-07-18</date>
+	            <timestart>12:15</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="6227">
+	            <issftitle>Final 25m Pistol Women</issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-07-19</date>
+	            <timestart>15:15</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="6059">
+	            <issftitle>50m Pistol Men</issftitle>
+	            <eventcode>FP</eventcode>
+	            <date>2009-07-18</date>
+	            <timestart>13:15</timestart>
+	
+	            <timeend>15:15</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6025">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-07-13</date>
+	
+	            <timestart>13:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="6026">
+	            <issftitle>Opening Ceremony</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-07-13</date>
+	            <timestart>20:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="6032">
+	            <issftitle>50m Rifle Prone Women</issftitle>
+	
+	            <eventcode>STR60PR</eventcode>
+	            <date>2009-07-15</date>
+	            <timestart>09:00</timestart>
+	            <timeend>10:15</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	
+	        <event id="6057">
+	            <issftitle>50m Pistol Men Junior</issftitle>
+	            <eventcode>FP</eventcode>
+	            <date>2009-07-18</date>
+	            <timestart>09:00</timestart>
+	            <timeend>11:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6033">
+	            <issftitle>50m Rifle 3 Positions Women Junior</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-07-15</date>
+	            <timestart>10:45</timestart>
+	
+	            <timeend>13:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="6027">
+	            <issftitle>50m Rifle Prone Women Junior</issftitle>
+	            <eventcode>STR60PR</eventcode>
+	            <date>2009-07-14</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>10:15</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6031">
+	            <issftitle>50m Running Target Men Junior Slow Run</issftitle>
+	            <eventcode>50RT</eventcode>
+	
+	            <date>2009-07-14</date>
+	            <timestart>09:00</timestart>
+	            <timeend>14:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6028">
+	            <issftitle>50m Rifle Prone Men Junior</issftitle>
+	
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-07-14</date>
+	            <timestart>10:45</timestart>
+	            <timeend>12:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	
+	        <event id="6030">
+	            <issftitle>50m Running Target Men Slow Run</issftitle>
+	            <eventcode>50RT</eventcode>
+	            <date>2009-07-14</date>
+	            <timestart>09:00</timestart>
+	            <timeend>14:00</timeend>
+	
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="6029">
+	            <issftitle>Final 50m Rifle Prone Men Junior</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-07-14</date>
+	            <timestart>13:15</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+		</events>
+    </championship>
+    
+    <championship id="723">
+        <site>Maribor</site>
+        <nation>SLO</nation>
+
+        <title>ISSF World Championships</title>
+        <year>2009</year>
+        <startdate>2009-08-06</startdate>
+        <enddate>2009-08-17</enddate>
+        <timezone>Europe/Ljubljana</timezone>
+        <gmtoffset>2</gmtoffset>
+
+        <federation>ISSF</federation>
+        <disciplines>Shotgun</disciplines>
+        <championshipcode>WCH</championshipcode>
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/723/logos/ISSF.jpg</federationlogo>
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/723/logos/WCH_SH_SLO_09.jpg</championshiplogo>
+        <sponsorresultlogo>http://www.issf-sports.org/media/calendar/2009/723/logos/WCH_SLO_Sponsors_Res.jpg</sponsorresultlogo>
+
+        <sponsoraccredlogo>http://www.issf-sports.org/media/calendar/2009/723/logos/WCH_SLO_Sponsors_Acc.jpg</sponsoraccredlogo>
+        
+        <events>
+	        <event id="5669">
+	            <issftitle>Arrival of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-08-06</date>
+	            <timestart>00:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5670">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-08-07</date>
+	
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5681">
+	            <issftitle>Skeet Women</issftitle>
+	            <eventcode>SK75</eventcode>
+	
+	            <date>2009-08-11</date>
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5671">
+	            <issftitle>Technical Meeting</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-08-07</date>
+	            <timestart>14:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	
+	        <event id="5672">
+	            <issftitle>Opening Ceremony</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-08-07</date>
+	            <timestart>20:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>---</phase>
+	        </event>
+	        <event id="5673">
+	            <issftitle>Trap Men Day 1</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-08-08</date>
+	            <timestart>09:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5680">
+	            <issftitle>Trap Women Junior</issftitle>
+	            <eventcode>TR75</eventcode>
+	            <date>2009-08-11</date>
+	
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5675">
+	            <issftitle>Trap Men Day 2</issftitle>
+	            <eventcode>TR125</eventcode>
+	
+	            <date>2009-08-09</date>
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5676">
+	            <issftitle>Trap Men Junior Day 2</issftitle>
+	
+	            <eventcode>TR125</eventcode>
+	            <date>2009-08-09</date>
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	
+	        <event id="5679">
+	            <issftitle>Trap Women</issftitle>
+	            <eventcode>TR75</eventcode>
+	            <date>2009-08-11</date>
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5678">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-08-10</date>
+	            <timestart>09:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5677">
+	            <issftitle>Final Trap Men</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-08-09</date>
+	
+	            <timestart>17:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5682">
+	            <issftitle>Skeet Women Junior</issftitle>
+	            <eventcode>SK75</eventcode>
+	
+	            <date>2009-08-11</date>
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5674">
+	            <issftitle>Trap Men Junior Day 1</issftitle>
+	
+	            <eventcode>TR125</eventcode>
+	            <date>2009-08-08</date>
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	
+	        <event id="5683">
+	            <issftitle>Final Trap Women</issftitle>
+	            <eventcode>TR75</eventcode>
+	            <date>2009-08-11</date>
+	            <timestart>17:45</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5685">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-08-12</date>
+	            <timestart>09:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5686">
+	            <issftitle>Double Trap Men</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-08-13</date>
+	
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5687">
+	            <issftitle>Double Trap Men Junior</issftitle>
+	            <eventcode>DT150</eventcode>
+	
+	            <date>2009-08-13</date>
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5688">
+	            <issftitle>Final Double Trap Men</issftitle>
+	
+	            <eventcode>DT150</eventcode>
+	            <date>2009-08-13</date>
+	            <timestart>16:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+	
+	        <event id="5689">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-08-14</date>
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Training</phase>
+	        </event>
+	        <event id="5690">
+	            <issftitle>Skeet Men Day 1</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-08-15</date>
+	            <timestart>09:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5691">
+	            <issftitle>Skeet Men Junior Day 1</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-08-15</date>
+	
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	        <event id="5692">
+	            <issftitle>Skeet Men Day 2</issftitle>
+	            <eventcode>SK125</eventcode>
+	
+	            <date>2009-08-16</date>
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Qualification</phase>
+	        </event>
+	        <event id="5693">
+	            <issftitle>Skeet Men Junior Day 2</issftitle>
+	
+	            <eventcode>SK125</eventcode>
+	            <date>2009-08-16</date>
+	            <timestart>09:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Competition</phase>
+	        </event>
+	
+	        <event id="5694">
+	            <issftitle>Final Skeet Men</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-08-16</date>
+	            <timestart>16:30</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase>Final</phase>
+	        </event>
+	        <event id="5695">
+	            <issftitle>Closing Ceremony</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-08-16</date>
+	            <timestart>17:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5696">
+	            <issftitle>Departure of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-08-17</date>
+	
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>---</phase>
+	        </event>
+	        <event id="5684">
+	            <issftitle>Final Skeet Women</issftitle>
+	            <eventcode>SK75</eventcode>
+	
+	            <date>2009-08-11</date>
+	            <timestart>16:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase>Final</phase>
+	        </event>
+		</events>
+    </championship>
+    
+    
+    <championship id="1025">
+
+        <site>Heinola</site>
+        <nation>FIN</nation>
+        <title>ISSF World Championships</title>
+        <year>2009</year>
+        <startdate>2009-08-22</startdate>
+        <enddate>2009-08-30</enddate>
+
+        <timezone>Europe/Helsinki</timezone>
+        <gmtoffset></gmtoffset>
+        <federation />
+        <disciplines>Running Target</disciplines>
+        <championshipcode>WCH</championshipcode>
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/1025/logos/ISSF.jpg</federationlogo>
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/1025/logos/WCH_RT_FIN_09.jpg</championshiplogo>
+
+        <sponsorresultlogo>http://www.issf-sports.org/media/calendar/2009/1025/logos/WCH_FIN_Sponsors_Res.jpg</sponsorresultlogo>
+        <sponsoraccredlogo>http://www.issf-sports.org/media/calendar/2009/1025/logos/WCH_FIN_Sponsors_Acc.jpg</sponsoraccredlogo>
+        
+        <events>
+	        <event id="6125">
+	            <issftitle>Medal Match 10m Running Target Men</issftitle>
+	            <eventcode>10RT</eventcode>
+	            <date>2009-08-26</date>
+	
+	            <timestart>12:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6120">
+	            <issftitle>10m Running Target Women Junior Slow Run</issftitle>
+	            <eventcode>10RT20</eventcode>
+	
+	            <date>2009-08-25</date>
+	            <timestart>09:00</timestart>
+	            <timeend>15:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6133">
+	            <issftitle>Closing Ceremony</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-08-29</date>
+	            <timestart>18:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6132">
+	
+	            <issftitle>50m Running Target Men Junior Fast Run</issftitle>
+	            <eventcode>50RT</eventcode>
+	            <date>2009-08-29</date>
+	            <timestart>10:00</timestart>
+	            <timeend>14:00</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6131">
+	            <issftitle>50m Running Target Men Fast Run</issftitle>
+	            <eventcode>50RT</eventcode>
+	            <date>2009-08-29</date>
+	            <timestart>10:00</timestart>
+	            <timeend>14:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6130">
+	            <issftitle>50m Running Target Men Junior Slow Run</issftitle>
+	            <eventcode>50RT</eventcode>
+	            <date>2009-08-28</date>
+	            <timestart>10:00</timestart>
+	
+	            <timeend>14:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6129">
+	            <issftitle>50m Running Target Men Slow Run</issftitle>
+	            <eventcode>50RT</eventcode>
+	            <date>2009-08-28</date>
+	
+	            <timestart>10:00</timestart>
+	            <timeend>14:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6128">
+	            <issftitle>50m Running Target Mixed Men Junior</issftitle>
+	            <eventcode>50RTMIX</eventcode>
+	
+	            <date>2009-08-27</date>
+	            <timestart>10:00</timestart>
+	            <timeend>17:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6126">
+	            <issftitle>Medal Match 10m Running Target Women</issftitle>
+	
+	            <eventcode>10RT20</eventcode>
+	            <date>2009-08-26</date>
+	            <timestart>12:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6124">
+	
+	            <issftitle>10m Running Target Women Fast Run</issftitle>
+	            <eventcode>10RT20</eventcode>
+	            <date>2009-08-26</date>
+	            <timestart>09:00</timestart>
+	            <timeend>12:00</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6123">
+	            <issftitle>10m Running Target Men Fast Run</issftitle>
+	            <eventcode>10RT</eventcode>
+	            <date>2009-08-26</date>
+	            <timestart>09:00</timestart>
+	            <timeend>12:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6134">
+	            <issftitle>Departure of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-08-30</date>
+	            <timestart>00:00</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6121">
+	            <issftitle>10m Running Target Men Junior Fast Run</issftitle>
+	            <eventcode>10RT</eventcode>
+	            <date>2009-08-25</date>
+	
+	            <timestart>15:00</timestart>
+	            <timeend>18:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6111">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-08-23</date>
+	            <timestart>15:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6119">
+	            <issftitle>10m Running Target Women Slow Run</issftitle>
+	
+	            <eventcode>10RT20</eventcode>
+	            <date>2009-08-25</date>
+	            <timestart>09:00</timestart>
+	            <timeend>15:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6118">
+	
+	            <issftitle>10m Running Target Men Junior Slow Run</issftitle>
+	            <eventcode>10RT</eventcode>
+	            <date>2009-08-25</date>
+	            <timestart>09:00</timestart>
+	            <timeend>15:00</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6117">
+	            <issftitle>10m Running Target Men Slow Run</issftitle>
+	            <eventcode>10RT</eventcode>
+	            <date>2009-08-25</date>
+	            <timestart>09:00</timestart>
+	            <timeend>15:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6116">
+	            <issftitle>10m Running Target Mixed Women Junior</issftitle>
+	            <eventcode>10RT20MIX</eventcode>
+	            <date>2009-08-24</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>18:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6115">
+	            <issftitle>10m Running Target Mixed Women</issftitle>
+	            <eventcode>10RT20MIX</eventcode>
+	            <date>2009-08-24</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>18:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6114">
+	            <issftitle>10m Running Target Mixed Men Junior</issftitle>
+	            <eventcode>10RTMIX</eventcode>
+	
+	            <date>2009-08-24</date>
+	            <timestart>09:00</timestart>
+	            <timeend>18:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6113">
+	            <issftitle>10m Running Target Mixed Men</issftitle>
+	
+	            <eventcode>10RTMIX</eventcode>
+	            <date>2009-08-24</date>
+	            <timestart>09:00</timestart>
+	            <timeend>18:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6112">
+	
+	            <issftitle>Opening Ceremony</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-08-23</date>
+	            <timestart>17:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6110">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-08-23</date>
+	            <timestart>09:00</timestart>
+	            <timeend>16:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6127">
+	            <issftitle>50m Running Target Mixed Men</issftitle>
+	            <eventcode>50RTMIX</eventcode>
+	            <date>2009-08-27</date>
+	            <timestart>10:00</timestart>
+	
+	            <timeend>17:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6122">
+	            <issftitle>10m Running Target Women Junior Fast Run</issftitle>
+	            <eventcode>10RT20</eventcode>
+	            <date>2009-08-25</date>
+	
+	            <timestart>15:00</timestart>
+	            <timeend>18:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6109">
+	            <issftitle>Arrival of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-08-22</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+		</events>
+    </championship>
+    
+    <championship id="990">
+
+        <site>Wuxi</site>
+        <nation>CHN</nation>
+        <title>ISSF World Cup Final</title>
+        <year>2009</year>
+        <startdate>2009-10-24</startdate>
+        <enddate>2009-10-29</enddate>
+
+        <timezone>Asia/Macau</timezone>
+        <gmtoffset>8</gmtoffset>
+        <federation />
+        <disciplines>Rifle / Pistol</disciplines>
+        <championshipcode>WCF</championshipcode>
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/990/logos/ISSF.jpg</federationlogo>
+
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/990/logos/WCF_RP_CHN_09.jpg</championshiplogo>
+        <sponsorresultlogo>http://www.issf-sports.org/media/calendar/2009/990/logos/WCF_RP_CHN_Sponsors_Res.jpg</sponsorresultlogo>
+        <sponsoraccredlogo>http://www.issf-sports.org/media/calendar/2009/990/logos/WCF_RP_CHN_Sponsors_Acc.jpg</sponsoraccredlogo>
+        
+        <events>
+	        <event id="6205">
+	            <issftitle>Final 10m Air Pistol Men</issftitle>
+	            <eventcode>AP60</eventcode>
+	
+	            <date>2009-10-28</date>
+	            <timestart>11:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6206">
+	            <issftitle>Final 50m Rifle 3 Positions Men</issftitle>
+	
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-10-28</date>
+	            <timestart>12:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6207">
+	
+	            <issftitle>Champions Trophy</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-10-28</date>
+	            <timestart>14:30</timestart>
+	            <timeend>16:30</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6203">
+	            <issftitle>50m Rifle 3 Positions Men</issftitle>
+	            <eventcode>FR3X40</eventcode>
+	            <date>2009-10-28</date>
+	            <timestart>08:00</timestart>
+	            <timeend>11:20</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6202">
+	            <issftitle>10m Air Pistol Men</issftitle>
+	            <eventcode>AP60</eventcode>
+	            <date>2009-10-28</date>
+	            <timestart>08:00</timestart>
+	
+	            <timeend>09:45</timeend>
+	            <phase />
+	        </event>
+	        <event id="6201">
+	            <issftitle>10m Air Pistol Women</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-10-28</date>
+	
+	            <timestart>08:00</timestart>
+	            <timeend>09:15</timeend>
+	            <phase />
+	        </event>
+	        <event id="6180">
+	            <issftitle>Arrival of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-10-24</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6208">
+	            <issftitle>Departure of Delegations</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-10-29</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6200">
+	
+	            <issftitle>Final 25m Pistol Women</issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-10-27</date>
+	            <timestart>13:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6199">
+	            <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-10-27</date>
+	            <timestart>12:30</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6204">
+	            <issftitle>Final 10m Air Pistol Women</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-10-28</date>
+	            <timestart>10:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6197">
+	            <issftitle>25m Pistol Women Rapid Fire Stage</issftitle>
+	            <eventcode>SP</eventcode>
+	            <date>2009-10-27</date>
+	
+	            <timestart>10:45</timestart>
+	            <timeend>12:15</timeend>
+	            <phase />
+	        </event>
+	        <event id="6196">
+	            <issftitle>25m Pistol Women Precision Stage</issftitle>
+	            <eventcode>SP</eventcode>
+	
+	            <date>2009-10-27</date>
+	            <timestart>08:00</timestart>
+	            <timeend>09:45</timeend>
+	            <phase />
+	        </event>
+	        <event id="6195">
+	            <issftitle>50m Rifle 3 Positions Women</issftitle>
+	
+	            <eventcode>STR3X20</eventcode>
+	            <date>2009-10-27</date>
+	            <timestart>08:00</timestart>
+	            <timeend>10:15</timeend>
+	            <phase />
+	        </event>
+	        <event id="6185">
+	
+	            <issftitle>10m Air Rifle Women</issftitle>
+	            <eventcode>AR40</eventcode>
+	            <date>2009-10-26</date>
+	            <timestart>08:00</timestart>
+	            <timeend>09:15</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6181">
+	            <issftitle>Equipment Control</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-10-25</date>
+	            <timestart>08:30</timestart>
+	            <timeend>16:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6182">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-10-25</date>
+	            <timestart>08:00</timestart>
+	
+	            <timeend>15:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6183">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-10-25</date>
+	
+	            <timestart>15:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6198">
+	            <issftitle>Final 50m Rifle Prone Men</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	
+	            <date>2009-10-27</date>
+	            <timestart>11:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6184">
+	            <issftitle>Opening Ceremony</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-10-25</date>
+	            <timestart>18:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6194">
+	
+	            <issftitle>50m Rifle Prone Men</issftitle>
+	            <eventcode>FR60PR</eventcode>
+	            <date>2009-10-27</date>
+	            <timestart>08:00</timestart>
+	            <timeend>09:15</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6186">
+	            <issftitle>10m Air Rifle Men</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-10-26</date>
+	            <timestart>08:00</timestart>
+	            <timeend>09:45</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6187">
+	            <issftitle>25m Rapid Fire Pistol Men Stage 1</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-10-26</date>
+	            <timestart>08:00</timestart>
+	
+	            <timeend>09:30</timeend>
+	            <phase />
+	        </event>
+	        <event id="6188">
+	            <issftitle>25m Rapid Fire Pistol Men Stage 2</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-10-26</date>
+	
+	            <timestart>10:00</timestart>
+	            <timeend>11:30</timeend>
+	            <phase />
+	        </event>
+	        <event id="6189">
+	            <issftitle>50m Pistol Men</issftitle>
+	            <eventcode>FP</eventcode>
+	
+	            <date>2009-10-26</date>
+	            <timestart>08:00</timestart>
+	            <timeend>10:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6190">
+	            <issftitle>Final 10m Air Rifle Women</issftitle>
+	
+	            <eventcode>AR40</eventcode>
+	            <date>2009-10-26</date>
+	            <timestart>10:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6191">
+	
+	            <issftitle>Final 10m Air Rifle Men</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-10-26</date>
+	            <timestart>11:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6192">
+	            <issftitle>Final 50m Pistol Men</issftitle>
+	            <eventcode>FP</eventcode>
+	            <date>2009-10-26</date>
+	            <timestart>12:30</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6193">
+	            <issftitle>Final 25m Rapid Fire Pistol Men</issftitle>
+	            <eventcode>RFP</eventcode>
+	            <date>2009-10-26</date>
+	            <timestart>13:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+        </events>
+    </championship>
+    
+    
+    <championship id="991">
+        <site>Beijing</site>
+        <nation>CHN</nation>
+
+        <title>ISSF World Cup Final</title>
+        <year>2009</year>
+        <startdate>2009-10-29</startdate>
+        <enddate>2009-11-03</enddate>
+        <timezone>Asia/Macau</timezone>
+        <gmtoffset>8</gmtoffset>
+
+        <federation />
+        <disciplines>Shotgun</disciplines>
+        <championshipcode>WCF</championshipcode>
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/991/logos/ISSF.jpg</federationlogo>
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/991/logos/WCF_SH_CHN_09.jpg</championshiplogo>
+        <sponsorresultlogo>http://www.issf-sports.org/media/calendar/2009/991/logos/WCF_SH_CHN_Sponsors_Res.jpg</sponsorresultlogo>
+
+        <sponsoraccredlogo>http://www.issf-sports.org/media/calendar/2009/991/logos/WCF_SH_CHN_Sponsors_Acc.jpg</sponsoraccredlogo>
+        <events>
+	        <event id="6222">
+	            <issftitle>Trap Men Day 2</issftitle>
+	            <eventcode>TR125</eventcode>
+	            <date>2009-11-02</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>11:30</timeend>
+	            <phase />
+	        </event>
+	        <event id="6223">
+	            <issftitle>Skeet Men Day 2</issftitle>
+	            <eventcode>SK125</eventcode>
+	            <date>2009-11-02</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>11:30</timeend>
+	            <phase />
+	        </event>
+	        <event id="6224">
+	            <issftitle>Final Trap Men</issftitle>
+	            <eventcode>TR125</eventcode>
+	
+	            <date>2009-11-02</date>
+	            <timestart>12:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6225">
+	            <issftitle>Final Skeet Men</issftitle>
+	
+	            <eventcode>SK125</eventcode>
+	            <date>2009-11-02</date>
+	            <timestart>13:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6226">
+	
+	            <issftitle>Departure of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-11-03</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6214">
+	            <issftitle>Double Trap Men</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-10-31</date>
+	            <timestart>09:00</timestart>
+	            <timeend>13:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6221">
+	            <issftitle>Final Skeet Women</issftitle>
+	            <eventcode>SK75</eventcode>
+	            <date>2009-11-01</date>
+	            <timestart>14:45</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6220">
+	            <issftitle>Final Trap Women</issftitle>
+	            <eventcode>TR75</eventcode>
+	            <date>2009-11-01</date>
+	
+	            <timestart>13:45</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6219">
+	            <issftitle>Skeet Men Day 1</issftitle>
+	            <eventcode>SK125</eventcode>
+	
+	            <date>2009-11-01</date>
+	            <timestart>09:00</timestart>
+	            <timeend>13:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6218">
+	            <issftitle>Trap Men Day 1</issftitle>
+	
+	            <eventcode>TR125</eventcode>
+	            <date>2009-11-01</date>
+	            <timestart>09:00</timestart>
+	            <timeend>13:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6217">
+	
+	            <issftitle>Skeet Women</issftitle>
+	            <eventcode>SK75</eventcode>
+	            <date>2009-11-01</date>
+	            <timestart>09:00</timestart>
+	            <timeend>13:30</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6228">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-10-31</date>
+	            <timestart>09:00</timestart>
+	            <timeend>16:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6229">
+	            <issftitle>Equipment Control</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-10-31</date>
+	            <timestart>10:00</timestart>
+	
+	            <timeend>12:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6215">
+	            <issftitle>Final Double Trap Men</issftitle>
+	            <eventcode>DT150</eventcode>
+	            <date>2009-10-31</date>
+	
+	            <timestart>14:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6212">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-10-30</date>
+	            <timestart>12:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6211">
+	            <issftitle>Equipment Control</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-10-30</date>
+	            <timestart>10:00</timestart>
+	            <timeend>12:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6210">
+	
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-10-30</date>
+	            <timestart>09:00</timestart>
+	            <timeend>14:00</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6209">
+	            <issftitle>Arrival of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-10-29</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6216">
+	            <issftitle>Trap Women</issftitle>
+	            <eventcode>TR75</eventcode>
+	            <date>2009-11-01</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>13:00</timeend>
+	            <phase />
+	        </event>
+		</events>
+    </championship>
+    
+    <championship id="1036">
+        <site>Doha</site>
+        <nation>QAT</nation>
+
+        <title>3rd Asian Championships 10m, YOG Qualification</title>
+        <year>2009</year>
+        <startdate>2009-12-16</startdate>
+        <enddate>2009-12-22</enddate>
+        <timezone>Africa/Ceuta</timezone>
+        <gmtoffset></gmtoffset>
+
+        <federation />
+        <disciplines>Rifle / Pistol / Running Target</disciplines>
+        <championshipcode>ASC</championshipcode>
+        <federationlogo>http://www.issf-sports.org/media/calendar/2009/1036/logos/CC_ASF.jpg</federationlogo>
+        <championshiplogo>http://www.issf-sports.org/media/calendar/2009/1036/logos/ASC_QAT_09.jpg</championshiplogo>
+        <sponsorresultlogo/>
+        <sponsoraccredlogo/>
+
+		<events>
+	        <event id="6179">
+	            <issftitle>Departure of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-12-22</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6173">
+	            <issftitle>Final 10m Air Pistol Women</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-12-21</date>
+	            <timestart>12:45</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6136">
+	            <issftitle>Official Training</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-12-17</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>19:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6160">
+	            <issftitle>10m Air Rifle Women Youth</issftitle>
+	            <eventcode>AR40</eventcode>
+	
+	            <date>2009-12-19</date>
+	            <timestart>10:45</timestart>
+	            <timeend>12:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6161">
+	            <issftitle>Final 10m Air Rifle Women Youth</issftitle>
+	
+	            <eventcode>AR40</eventcode>
+	            <date>2009-12-19</date>
+	            <timestart>14:15</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6162">
+	
+	            <issftitle>10m Air Pistol Men</issftitle>
+	            <eventcode>AP60</eventcode>
+	            <date>2009-12-20</date>
+	            <timestart>09:00</timestart>
+	            <timeend>10:45</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6163">
+	            <issftitle>Final 10m Air Pistol Men</issftitle>
+	            <eventcode>AP60</eventcode>
+	            <date>2009-12-20</date>
+	            <timestart>13:45</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6164">
+	            <issftitle>10m Running Target Mixed Men</issftitle>
+	            <eventcode>10RTMIX</eventcode>
+	            <date>2009-12-20</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>13:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6165">
+	            <issftitle>10m Running Target Mixed Men Junior</issftitle>
+	            <eventcode>10RTMIX</eventcode>
+	            <date>2009-12-20</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>13:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6166">
+	            <issftitle>10m Running Target Mixed Women</issftitle>
+	            <eventcode>10RT20MIX</eventcode>
+	
+	            <date>2009-12-20</date>
+	            <timestart>09:00</timestart>
+	            <timeend>13:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6167">
+	            <issftitle>10m Running Target Mixed Women Junior</issftitle>
+	
+	            <eventcode>10RT20MIX</eventcode>
+	            <date>2009-12-20</date>
+	            <timestart>09:00</timestart>
+	            <timeend>13:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6175">
+	
+	            <issftitle>Final 10m Air Pistol Women Junior</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-12-21</date>
+	            <timestart>13:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6135">
+	            <issftitle>Arrival of Delegations</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-12-16</date>
+	            <timestart>00:00</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6157">
+	            <issftitle>10m Running Target Women Junior Fast Run</issftitle>
+	            <eventcode>10RT20</eventcode>
+	            <date>2009-12-19</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>11:30</timeend>
+	            <phase />
+	        </event>
+	        <event id="6137">
+	            <issftitle>Equipment Control</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-12-17</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>14:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6138">
+	            <issftitle>Technical Meeting</issftitle>
+	            <eventcode>0</eventcode>
+	
+	            <date>2009-12-17</date>
+	            <timestart>10:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6139">
+	            <issftitle>Opening Ceremony</issftitle>
+	
+	            <eventcode>0</eventcode>
+	            <date>2009-12-17</date>
+	            <timestart>15:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6140">
+	
+	            <issftitle>10m Air Rifle Men</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-12-18</date>
+	            <timestart>09:00</timestart>
+	            <timeend>10:45</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6141">
+	            <issftitle>Final 10m Air Rifle Men</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-12-18</date>
+	            <timestart>13:45</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6142">
+	            <issftitle>10m Running Target Men Slow Run</issftitle>
+	            <eventcode>10RT</eventcode>
+	            <date>2009-12-18</date>
+	            <timestart>09:00</timestart>
+	
+	            <timeend>12:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6143">
+	            <issftitle>10m Running Target Women Slow Run</issftitle>
+	            <eventcode>10RT20</eventcode>
+	            <date>2009-12-18</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>12:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6144">
+	            <issftitle>10m Running Target Men Junior Slow Run</issftitle>
+	            <eventcode>10RT</eventcode>
+	
+	            <date>2009-12-18</date>
+	            <timestart>09:00</timestart>
+	            <timeend>12:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6168">
+	            <issftitle>10m Air Pistol Men Junior</issftitle>
+	
+	            <eventcode>AP60</eventcode>
+	            <date>2009-12-20</date>
+	            <timestart>11:15</timestart>
+	            <timeend>13:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6148">
+	
+	            <issftitle>10m Air Rifle Men Youth</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-12-18</date>
+	            <timestart>11:15</timestart>
+	            <timeend>13:00</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6177">
+	            <issftitle>Final 10m Air Pistol Women Youth</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-12-21</date>
+	            <timestart>14:15</timestart>
+	            <timeend>00:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6176">
+	            <issftitle>10m Air Pistol Women Youth</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-12-21</date>
+	            <timestart>10:45</timestart>
+	
+	            <timeend>12:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6174">
+	            <issftitle>10m Air Pistol Women Junior</issftitle>
+	            <eventcode>AP40</eventcode>
+	            <date>2009-12-21</date>
+	
+	            <timestart>10:45</timestart>
+	            <timeend>12:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6169">
+	            <issftitle>Final 10m Air Pistol Men Junior</issftitle>
+	            <eventcode>AP60</eventcode>
+	
+	            <date>2009-12-20</date>
+	            <timestart>14:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6172">
+	            <issftitle>10m Air Pistol Women</issftitle>
+	
+	            <eventcode>AP40</eventcode>
+	            <date>2009-12-21</date>
+	            <timestart>09:00</timestart>
+	            <timeend>10:15</timeend>
+	            <phase />
+	        </event>
+	        <event id="6171">
+	
+	            <issftitle>Final 10m Air Pistol Men Youth</issftitle>
+	            <eventcode>AP60</eventcode>
+	            <date>2009-12-20</date>
+	            <timestart>15:15</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6170">
+	            <issftitle>10m Air Pistol Men Youth</issftitle>
+	            <eventcode>AP60</eventcode>
+	            <date>2009-12-20</date>
+	            <timestart>11:15</timestart>
+	            <timeend>13:00</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6146">
+	            <issftitle>10m Air Rifle Men Junior</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-12-18</date>
+	            <timestart>11:15</timestart>
+	
+	            <timeend>13:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6159">
+	            <issftitle>Final 10m Air Rifle Women Junior</issftitle>
+	            <eventcode>AR40</eventcode>
+	            <date>2009-12-19</date>
+	
+	            <timestart>13:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6145">
+	            <issftitle>10m Running Target Women Junior Slow Run</issftitle>
+	            <eventcode>10RT20</eventcode>
+	
+	            <date>2009-12-18</date>
+	            <timestart>09:00</timestart>
+	            <timeend>12:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6158">
+	            <issftitle>10m Air Rifle Women Junior</issftitle>
+	
+	            <eventcode>AR40</eventcode>
+	            <date>2009-12-19</date>
+	            <timestart>10:45</timestart>
+	            <timeend>12:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6149">
+	
+	            <issftitle>Final 10m Air Rifle Men Youth</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-12-18</date>
+	            <timestart>15:15</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6150">
+	            <issftitle>10m Air Rifle Women</issftitle>
+	            <eventcode>AR40</eventcode>
+	            <date>2009-12-19</date>
+	            <timestart>09:00</timestart>
+	            <timeend>10:15</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6151">
+	            <issftitle>Final 10m Air Rifle Women</issftitle>
+	            <eventcode>AR40</eventcode>
+	            <date>2009-12-19</date>
+	            <timestart>12:45</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6152">
+	            <issftitle>10m Running Target Men Fast Run</issftitle>
+	            <eventcode>10RT</eventcode>
+	            <date>2009-12-19</date>
+	
+	            <timestart>09:00</timestart>
+	            <timeend>11:30</timeend>
+	            <phase />
+	        </event>
+	        <event id="6153">
+	            <issftitle>10m Running Target Women Fast Run</issftitle>
+	            <eventcode>10RT20</eventcode>
+	
+	            <date>2009-12-19</date>
+	            <timestart>09:00</timestart>
+	            <timeend>11:30</timeend>
+	            <phase />
+	        </event>
+	        <event id="6154">
+	            <issftitle>Medal Match 10m Running Target Men</issftitle>
+	
+	            <eventcode>10RT</eventcode>
+	            <date>2009-12-19</date>
+	            <timestart>12:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6155">
+	
+	            <issftitle>Medal Match 10m Running Target Women</issftitle>
+	            <eventcode>10RT20</eventcode>
+	            <date>2009-12-19</date>
+	            <timestart>12:00</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	
+	        </event>
+	        <event id="6156">
+	            <issftitle>10m Running Target Men Junior Fast Run</issftitle>
+	            <eventcode>10RT</eventcode>
+	            <date>2009-12-19</date>
+	            <timestart>09:00</timestart>
+	            <timeend>11:30</timeend>
+	
+	            <phase />
+	        </event>
+	        <event id="6178">
+	            <issftitle>Closing Ceremony</issftitle>
+	            <eventcode>0</eventcode>
+	            <date>2009-12-21</date>
+	            <timestart>19:30</timestart>
+	
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+	        <event id="6147">
+	            <issftitle>Final 10m Air Rifle Men Junior</issftitle>
+	            <eventcode>AR60</eventcode>
+	            <date>2009-12-18</date>
+	
+	            <timestart>14:30</timestart>
+	            <timeend>00:00</timeend>
+	            <phase />
+	        </event>
+		</events>	        
+    </championship>
+</issfcalendar>

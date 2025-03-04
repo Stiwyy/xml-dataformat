@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adressliste xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="adressen.xsd">
+
+	<adresse>
+		<name>muster</name>
+		<vorname>hans</vorname>
+		<strasse>mustergasse</strasse>
+		<hausnummer>20</hausnummer>
+		<telefonnummer>078 888 88 88</telefonnummer>
+	</adresse>
+
+	<adresse>
+		<name>studer</name>
+		<vorname>eva</vorname>
+		<strasse>stadtgasse</strasse>
+		<hausnummer>15</hausnummer>
+		<telefonnummer>079 999 99 99</telefonnummer>
+	</adresse>
+
+	<adresse>
+		<name>Swingaran</name>
+		<vorname>Studifa</vorname>
+		<strasse>Wintererhaupbahnhofstrasse</strasse>
+		<hausnummer>25</hausnummer>
+		<telefonnummer>077 777 77 77</telefonnummer>
+		<kinder>
+			<kind>
+				<vorname>Penis</vorname>
+				<geburtsjahr>2025</geburtsjahr>
+			</kind>
+		</kinder>
+	</adresse>
+	
+</adressliste>

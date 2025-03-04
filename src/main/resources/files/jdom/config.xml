@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accountconfig>
+	<smtp>
+		<name>smtp.bluewin.ch</name>
+		<username>pmuster@bluewin.ch</username>
+		<password>pizza1234</password>
+	</smtp>
+	<pop3>
+		<name>pop3.bluewin.ch</name>
+		<username>pmuster@bluewin.ch</username>
+		<password>pizza1234</password>
+	</pop3>
+</accountconfig>

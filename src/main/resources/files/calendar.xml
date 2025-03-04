@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<issfcalendar xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='file:.\calendar.xsd'>
+
+<event id="421">
+    <site>Athens</site>
+    <nation>GRE</nation>
+    
+    <year>2004</year>
+    <startdate>2004-04-20</startdate>
+    <enddate>2004-05-01</enddate>
+
+    <competition id="2477">
+        <date>2004-04-22</date>
+        <issftitle>Final 10m Air Rifle Women</issftitle>
+    </competition>
+    <competition id="2482">
+        <date>2004-04-22</date>
+        <issftitle>Final 10m Air Pistol Men</issftitle>
+    </competition>
+    <competition id="2486">
+        <date>2004-04-23</date>
+        <issftitle>Final 10m Air Pistol Women</issftitle>
+    </competition>
+    <competition id="2489">
+        <date>2004-04-23</date>
+        <issftitle>Final Trap Men</issftitle>
+    </competition>
+    <competition id="2493">
+        <date>2004-04-24</date>
+        <issftitle>Final 10m Air Rifle Men</issftitle>
+    </competition>
+    <competition id="2496">
+        <date>2004-04-24</date>
+        <issftitle>Final Trap Women</issftitle>
+    </competition>
+    <competition id="2499">
+        <date>2004-04-25</date>
+        <issftitle>Final 25m Pistol Women</issftitle>
+    </competition>
+    <competition id="2502">
+        <date>2004-04-25</date>
+        <issftitle>Final Double Trap Men</issftitle>
+    </competition>
+    <competition id="2509">
+        <date>2004-04-26</date>
+        <issftitle>Final Double Trap Women</issftitle>
+    </competition>
+    <competition id="2512">
+        <date>2004-04-26</date>
+        <issftitle>Final 50m Rifle Prone Men</issftitle>
+    </competition>
+    <competition id="2515">
+        <date>2004-04-27</date>
+        <issftitle>Final 50m Pistol Men</issftitle>
+    </competition>
+    <competition id="2518">
+        <date>2004-04-27</date>
+        <issftitle>Final Skeet Women</issftitle>
+    </competition>
+    <competition id="2524">
+        <date>2004-04-28</date>
+        <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+    </competition>
+    <competition id="2527">
+        <date>2004-04-28</date>
+        <issftitle>Final 10m Running Target Men</issftitle>
+    </competition>
+    <competition id="2530">
+        <date>2004-04-29</date>
+        <issftitle>Final Rapid Fire Pistol Men</issftitle>
+    </competition>
+    <competition id="2536">
+        <date>2004-04-30</date>
+        <issftitle>Final 50m Rifle 3 Positions Men</issftitle>
+    </competition>
+    <competition id="2539">
+        <date>2004-04-30</date>
+        <issftitle>Final Skeet Men</issftitle>
+    </competition>
+</event>
+
+<event id="443">
+    <site>Bangkok</site>
+    <nation>THA</nation>
+    
+    <year>2004</year>
+    <startdate>2004-02-19</startdate>
+    <enddate>2004-02-27</enddate>
+
+    <competition id="2550">
+        <date>2004-02-21</date>
+        <issftitle>Final 10m Air Rifle Men </issftitle>
+    </competition>
+    <competition id="2556">
+        <date>2004-02-22</date>
+        <issftitle>Final 10m Air Rifle Women </issftitle>
+    </competition>
+    <competition id="2558">
+        <date>2004-02-22</date>
+        <issftitle>Final 50m Pistol Men</issftitle>
+    </competition>
+    <competition id="2560">
+        <date>2004-02-22</date>
+        <issftitle>Final 25m Pistol Women</issftitle>
+    </competition>
+    <competition id="2567">
+        <date>2004-02-23</date>
+        <issftitle>Final 10m Air Pistol Men </issftitle>
+    </competition>
+    <competition id="2569">
+        <date>2004-02-23</date>
+        <issftitle>Final 50m Rifle Prone Men</issftitle>
+    </competition>
+    <competition id="2575">
+        <date>2004-02-24</date>
+        <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+    </competition>
+    <competition id="2582">
+        <date>2004-02-26</date>
+        <issftitle>Final 50m Rifle 3 Positions Men </issftitle>
+    </competition>
+    <competition id="2584">
+        <date>2004-02-26</date>
+        <issftitle>Final 25m Rapid Fire Pistol Men</issftitle>
+    </competition>
+    <competition id="2586">
+        <date>2004-02-24</date>
+        <issftitle>Final 10m Air Pistol Women</issftitle>
+    </competition>
+    <competition id="2587">
+        <date>2004-02-26</date>
+        <issftitle>Final 10m Running Target Men</issftitle>
+    </competition>
+</event>
+
+<event id="444">
+    <site>Sydney</site>
+    <nation>AUS</nation>
+    
+    <year>2004</year>
+    <startdate>2004-02-28</startdate>
+    <enddate>2004-03-08</enddate>
+
+    <competition id="2750">
+        <date>2004-03-01</date>
+        <issftitle>Final 10m Air Rifle Women</issftitle>
+    </competition>
+    <competition id="2755">
+        <date>2004-03-01</date>
+        <issftitle>Final Trap Women</issftitle>
+    </competition>
+    <competition id="2758">
+        <date>2004-03-02</date>
+        <issftitle>Final 10m Air Rifle Men</issftitle>
+    </competition>
+    <competition id="2760">
+        <date>2004-03-02</date>
+        <issftitle>Final 50m Pistol Men</issftitle>
+    </competition>
+    <competition id="2762">
+        <date>2004-03-02</date>
+        <issftitle>Final Trap Men</issftitle>
+    </competition>
+    <competition id="2765">
+        <date>2004-03-03</date>
+        <issftitle>Final 10m Air Pistol Men </issftitle>
+    </competition>
+    <competition id="2772">
+        <date>2004-03-04</date>
+        <issftitle>Final 10m Air Pistol Women </issftitle>
+    </competition>
+    <competition id="2774">
+        <date>2004-03-04</date>
+        <issftitle>Final 50m Rifle Prone Men</issftitle>
+    </competition>
+    <competition id="2779">
+        <date>2004-03-04</date>
+        <issftitle>Final Double Trap Men</issftitle>
+    </competition>
+    <competition id="2780">
+        <date>2004-03-04</date>
+        <issftitle>Final Double Trap Women</issftitle>
+    </competition>
+    <competition id="2782">
+        <date>2004-03-05</date>
+        <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+    </competition>
+    <competition id="2785">
+        <date>2004-03-05</date>
+        <issftitle>Final 25m Pistol Women </issftitle>
+    </competition>
+    <competition id="2792">
+        <date>2004-03-06</date>
+        <issftitle>Final Skeet Women</issftitle>
+    </competition>
+    <competition id="2794">
+        <date>2004-03-07</date>
+        <issftitle>Final 50m Rifle 3 Positions Men </issftitle>
+    </competition>
+    <competition id="2796">
+        <date>2004-03-07</date>
+        <issftitle>Final 10m Running Target Men </issftitle>
+    </competition>
+    <competition id="2798">
+        <date>2004-03-07</date>
+        <issftitle>Final 25m Rapid Fire Pistol Men </issftitle>
+    </competition>
+    <competition id="2800">
+        <date>2004-03-07</date>
+        <issftitle>Final Skeet Men</issftitle>
+    </competition>
+</event>
+
+<event id="445">
+    <site>Cairo</site>
+    <nation>EGY</nation>
+    
+    <year>2004</year>
+    <startdate>2004-04-10</startdate>
+    <enddate>2004-04-19</enddate>
+
+    <competition id="2601">
+        <date>2004-04-13</date>
+        <issftitle>Final Trap Men</issftitle>
+    </competition>
+    <competition id="2607">
+        <date>2004-04-15</date>
+        <issftitle>Final Double Trap Men</issftitle>
+    </competition>
+    <competition id="2616">
+        <date>2004-04-18</date>
+        <issftitle>Final Skeet Men</issftitle>
+    </competition>
+</event>
+
+<event id="446">
+    <site>Americana</site>
+    <nation>BRA</nation>
+    
+    <year>2004</year>
+    <startdate>2004-05-28</startdate>
+    <enddate>2004-06-06</enddate>
+
+    <competition id="2862">
+        <date>2004-06-02</date>
+        <issftitle>Final Double Trap Men</issftitle>
+    </competition>
+    <competition id="2871">
+        <date>2004-06-05</date>
+        <issftitle>Final Trap Men </issftitle>
+    </competition>
+    <competition id="2876">
+        <date>2004-05-31</date>
+        <issftitle>Final Skeet Men </issftitle>
+    </competition>
+</event>
+
+<event id="452">
+    <site>Milan</site>
+    <nation>ITA</nation>
+    
+    <year>2004</year>
+    <startdate>2004-06-14</startdate>
+    <enddate>2004-06-21</enddate>
+
+    <competition id="2813">
+        <date>2004-06-17</date>
+        <issftitle>Final 10m Air Pistol Women </issftitle>
+    </competition>
+    <competition id="2818">
+        <date>2004-06-18</date>
+        <issftitle>Final 50m Rifle Prone Men</issftitle>
+    </competition>
+    <competition id="2820">
+        <date>2004-06-18</date>
+        <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+    </competition>
+    <competition id="2823">
+        <date>2004-06-17</date>
+        <issftitle>Final 10m Air Pistol Men </issftitle>
+    </competition>
+    <competition id="2834">
+        <date>2004-06-16</date>
+        <issftitle>Final 10m Air Rifle Men </issftitle>
+    </competition>
+    <competition id="2836">
+        <date>2004-06-18</date>
+        <issftitle>Final 25m Pistol Women</issftitle>
+    </competition>
+    <competition id="2847">
+        <date>2004-06-16</date>
+        <issftitle>Final 10m Air Rifle Women </issftitle>
+    </competition>
+    <competition id="2851">
+        <date>2004-06-20</date>
+        <issftitle>Final 50m Pistol Men</issftitle>
+    </competition>
+    <competition id="2853">
+        <date>2004-06-20</date>
+        <issftitle>Final 25m Rapid Fire Pistol Men </issftitle>
+    </competition>
+    <competition id="2855">
+        <date>2004-06-20</date>
+        <issftitle>Final 50m Rifle 3 Positions Men</issftitle>
+    </competition>
+    <competition id="2859">
+        <date>2004-06-20</date>
+        <issftitle>Final 10m Running Target Men </issftitle>
+    </competition>
+</event>
+
+<event id="472">
+    <site>Maribor- Pragersko</site>
+    <nation>SLO</nation>
+    
+    <year>2004</year>
+    <startdate>2004-09-23</startdate>
+    <enddate>2004-09-28</enddate>
+
+    <competition id="2976">
+        <date>2004-09-25</date>
+        <issftitle>Final Trap Women</issftitle>
+    </competition>
+    <competition id="2978">
+        <date>2004-09-25</date>
+        <issftitle>Final Skeet Women</issftitle>
+    </competition>
+    <competition id="2983">
+        <date>2004-09-26</date>
+        <issftitle>Final Trap Men</issftitle>
+    </competition>
+    <competition id="2984">
+        <date>2004-09-26</date>
+        <issftitle>Final Skeet Men</issftitle>
+    </competition>
+    <competition id="2990">
+        <date>2004-09-27</date>
+        <issftitle>Final Double Trap Men </issftitle>
+    </competition>
+    <competition id="2991">
+        <date>2004-09-27</date>
+        <issftitle>Final Double Trap Women</issftitle>
+    </competition>
+</event>
+
+<event id="498">
+    <site>Bangkok</site>
+    <nation>THA</nation>
+    
+    <year>2004</year>
+    <startdate>2004-10-25</startdate>
+    <enddate>2004-10-31</enddate>
+
+    <competition id="3000">
+        <date>2004-10-27</date>
+        <issftitle>Final 10m Air Pistol Men</issftitle>
+    </competition>
+    <competition id="3002">
+        <date>2004-10-27</date>
+        <issftitle>Final 25m Pistol Women</issftitle>
+    </competition>
+    <competition id="3004">
+        <date>2004-10-27</date>
+        <issftitle>Final 50m Rifle Prone Men</issftitle>
+    </competition>
+    <competition id="3007">
+        <date>2004-10-28</date>
+        <issftitle>Final 10m Air Pistol Women</issftitle>
+    </competition>
+    <competition id="3009">
+        <date>2004-10-28</date>
+        <issftitle>Final 50m Pistol Men</issftitle>
+    </competition>
+    <competition id="3011">
+        <date>2004-10-29</date>
+        <issftitle>Final 10m Running Target Men</issftitle>
+    </competition>
+    <competition id="3013">
+        <date>2004-10-29</date>
+        <issftitle>Final 50m Rifle 3 Positions Men</issftitle>
+    </competition>
+    <competition id="3015">
+        <date>2004-10-29</date>
+        <issftitle>Final 10m Air Rifle Women</issftitle>
+    </competition>
+    <competition id="3017">
+        <date>2004-10-29</date>
+        <issftitle>Final 25m Rapid Fire Pistol Men</issftitle>
+    </competition>
+    <competition id="3019">
+        <date>2004-10-30</date>
+        <issftitle>Final 10m Air Rifle Men</issftitle>
+    </competition>
+    <competition id="3021">
+        <date>2004-10-30</date>
+        <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+    </competition>
+</event>
+
+</issfcalendar>
